@@ -11,7 +11,9 @@ A complete index of the knowledge base on the country north korea, grouped by ca
 <!-- BEGIN GENERATED: master-index — maintained by build-structure; do not edit by hand -->
 ## Geography
 
-*No entries yet.*
+- [Pyongyang](geography/pyongyang.md) — Capital and largest city of the DPRK on the Taedong River: the political, cultural, and symbolic heart of the state.
+
+Category index: [geography/index.md](geography/index.md)
 
 ## History
 
@@ -27,7 +29,9 @@ Category index: [government-politics/index.md](government-politics/index.md)
 
 ## Economy
 
-*No entries yet.*
+- [Economic System and Famine](economy/economic-system-and-famine.md) — The DPRK's centrally planned economy and the catastrophic 1994–1998 famine (the "Arduous March").
+
+Category index: [economy/index.md](economy/index.md)
 
 ## Culture & Society
 
@@ -36,6 +40,7 @@ Category index: [government-politics/index.md](government-politics/index.md)
 ## People
 
 - [Kim Il-sung](people/kim-il-sung.md) — Founding leader of the DPRK (1912–1994): architect of its political system, juche ideology, personality cult, and dynastic succession.
+- [Kim Jong-il](people/kim-jong-il.md) — Second leader of the DPRK (1942–2011): Kim Il-sung's successor, architect of the Songun policy who ruled through the famine and the first nuclear test.
 
 Category index: [people/index.md](people/index.md)
 <!-- END GENERATED: master-index -->

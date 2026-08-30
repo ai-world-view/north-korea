@@ -17,3 +17,6 @@ the network.
 | [Korean War](history/korean-war.md) | 1950–1953 conflict between North Korea (with USSR and China support) and South Korea (with UN/US support) that established the permanent division of the peninsula and shaped NK's militaristic ideology. |
 | [Government Structure](government-politics/government-structure.md) | Totalitarian one-party state led by the Kim dynasty; supreme leader holds concentrated power implemented through the Workers' Party of Korea and military institutions. |
 | [Kim Il-sung](people/kim-il-sung.md) | Founding leader (1912–1994) who established the DPRK, led it through the Korean War, and instituted juche ideology and dynastic succession. |
+| [Pyongyang](geography/pyongyang.md) | Capital and largest city of the DPRK on the Taedong River; the showcase political and cultural center, tightly controlled and privileged over the rest of the country. |
+| [Economic System and Famine](economy/economic-system-and-famine.md) | The DPRK's centrally planned economy and the 1994–1998 famine (the "Arduous March") that killed hundreds of thousands after the collapse of Soviet aid, spurring informal markets. |
+| [Kim Jong-il](people/kim-jong-il.md) | Second leader (1942–2011), Kim Il-sung's son and successor; architect of the Songun military-first policy who ruled through the famine and North Korea's first nuclear test. |

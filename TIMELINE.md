@@ -12,5 +12,6 @@ reflect each topic's principal date (an event's start, a person's birth).
 | Date | Item | Category | Link |
 |------|------|----------|------|
 | 1912-04-15 | Kim Il-sung | People | [people/kim-il-sung.md](people/kim-il-sung.md) |
+| 1942-02-16 | Kim Jong-il | People | [people/kim-jong-il.md](people/kim-jong-il.md) |
 | 1950-06-25 | Korean War | History | [history/korean-war.md](history/korean-war.md) |
 <!-- END GENERATED: timeline -->

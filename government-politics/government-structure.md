@@ -136,5 +136,6 @@ Each succession has been managed through the party and military apparatus as a q
 ## Related
 
 - [Kim Il-sung](../people/kim-il-sung.md) — founder and architect of the DPRK political system
+- [Kim Jong-il](../people/kim-jong-il.md) — successor who reshaped the system around the Songun military-first policy
 - [Korean War](../history/korean-war.md) — the conflict that forged and entrenched the political system
 <!-- END GENERATED: crossrefs -->

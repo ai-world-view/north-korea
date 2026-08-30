@@ -134,6 +134,8 @@ Kim Il-sung's legacy operates on multiple levels:
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
 ## Related
 
+- [Kim Jong-il](kim-jong-il.md) — son and successor who inherited his rule and dynasty
 - [Korean War](../history/korean-war.md) — the conflict Kim launched and led
 - [Government Structure](../government-politics/government-structure.md) — the political system he built
+- [Economic System and Famine](../economy/economic-system-and-famine.md) — the planned economy he founded and the crisis that followed his death
 <!-- END GENERATED: crossrefs -->
