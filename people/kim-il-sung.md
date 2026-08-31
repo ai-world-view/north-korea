@@ -138,4 +138,7 @@ Kim Il-sung's legacy operates on multiple levels:
 - [Korean War](../history/korean-war.md) — the conflict Kim launched and led
 - [Government Structure](../government-politics/government-structure.md) — the political system he built
 - [Economic System and Famine](../economy/economic-system-and-famine.md) — the planned economy he founded and the crisis that followed his death
+- [Kim Jong-un](../people/kim-jong-un.md) — grandson and third-generation leader who invokes his image and legacy
+- [State Ideology and Propaganda](../culture-society/state-ideology-and-propaganda.md) — juche and the personality cult he originated
+- [Mount Paektu](../geography/mount-paektu.md) — the sacred mountain of his mythologized guerrilla campaign
 <!-- END GENERATED: crossrefs -->

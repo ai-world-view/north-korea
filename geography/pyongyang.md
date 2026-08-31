@@ -96,4 +96,7 @@ Pyongyang's relationship with the rest of North Korea is hierarchical and unequa
 - [Korean War](../history/korean-war.md) — destruction and reconstruction of Pyongyang during and after the conflict
 - [Kim Jong-il](../people/kim-jong-il.md) — lived and died in Pyongyang; his embalmed body is displayed at the Kumsusan Palace
 - [Economic System and Famine](../economy/economic-system-and-famine.md) — Pyongyang received preferential food distribution during the 1994–1998 famine
+- [Kim Jong-un](../people/kim-jong-un.md) — remade districts of the capital with high-rise projects such as Ryomyong Street
+- [State Ideology and Propaganda](../culture-society/state-ideology-and-propaganda.md) — the monuments, murals, and mass games staged in the capital
+- [Mount Paektu](../geography/mount-paektu.md) — sacred-mountain imagery reproduced across Pyongyang's monuments
 <!-- END GENERATED: crossrefs -->

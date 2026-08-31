@@ -125,4 +125,6 @@ The famine of the 1990s is a watershed in North Korean history, a catastrophe th
 - [Kim Il-sung](../people/kim-il-sung.md) — architect of the original economic system
 - [Kim Jong-il](../people/kim-jong-il.md) — leader during the famine and Songun policy; supervised jangmadang experimentation
 - [Pyongyang](../geography/pyongyang.md) — capital that received preferential food distribution during the famine
+- [Kim Jong-un](../people/kim-jong-un.md) — tolerated the jangmadang markets while ruling under the heaviest sanctions regime
+- [State Ideology and Propaganda](../culture-society/state-ideology-and-propaganda.md) — the Chollima speed campaigns and the propaganda framing of the famine
 <!-- END GENERATED: crossrefs -->

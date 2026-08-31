@@ -129,4 +129,7 @@ His body was embalmed and placed in the Kumsusan Palace of the Sun alongside his
 - [Government Structure](../government-politics/government-structure.md) — the system he consolidated through Songun policy
 - [Economic System and Famine](../economy/economic-system-and-famine.md) — the 1994–1998 famine occurred on his watch; he managed the jangmadang liberalization
 - [Pyongyang](../geography/pyongyang.md) — his seat of power; his embalmed body is displayed at the Kumsusan Palace of the Sun
+- [Kim Jong-un](../people/kim-jong-un.md) — youngest son and successor whom he groomed for the third-generation transition
+- [State Ideology and Propaganda](../culture-society/state-ideology-and-propaganda.md) — juche theory he systematized and the cinema-propaganda apparatus he supervised
+- [Mount Paektu](../geography/mount-paektu.md) — his propagandized birthplace and the root of the "Paektu bloodline" myth
 <!-- END GENERATED: crossrefs -->

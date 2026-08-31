@@ -138,4 +138,6 @@ Each succession has been managed through the party and military apparatus as a q
 - [Kim Il-sung](../people/kim-il-sung.md) — founder and architect of the DPRK political system
 - [Kim Jong-il](../people/kim-jong-il.md) — successor who reshaped the system around the Songun military-first policy
 - [Korean War](../history/korean-war.md) — the conflict that forged and entrenched the political system
+- [Kim Jong-un](../people/kim-jong-un.md) — third-generation Supreme Leader who now heads the party, state, and military
+- [State Ideology and Propaganda](../culture-society/state-ideology-and-propaganda.md) — the ideological and information controls that sustain one-party rule
 <!-- END GENERATED: crossrefs -->
