@@ -12,4 +12,5 @@ Topics in the **Government & Politics** category of the knowledge base on the co
 | Topic | Description |
 |-------|-------------|
 | [Government Structure](government-structure.md) | The DPRK's one-party totalitarian system — the Supreme Leader, the Workers' Party of Korea, the state organs, the military, and the security apparatus. |
+| [Workers' Party of Korea](workers-party-of-korea.md) | The sole ruling party (founded 1945) and institutional backbone of the totalitarian state — its structure, cadre system, mass mobilization, and role under Kim Jong-un. |
 <!-- END GENERATED: category-index -->

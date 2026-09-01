@@ -141,4 +141,5 @@ Kim Il-sung's legacy operates on multiple levels:
 - [Kim Jong-un](../people/kim-jong-un.md) — grandson and third-generation leader who invokes his image and legacy
 - [State Ideology and Propaganda](../culture-society/state-ideology-and-propaganda.md) — juche and the personality cult he originated
 - [Mount Paektu](../geography/mount-paektu.md) — the sacred mountain of his mythologized guerrilla campaign
+- [Workers' Party of Korea](../government-politics/workers-party-of-korea.md) — the ruling party he founded in 1945 and bent to the personality cult
 <!-- END GENERATED: crossrefs -->

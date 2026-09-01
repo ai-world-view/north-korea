@@ -12,4 +12,5 @@ Topics in the **History** category of the knowledge base on the country north ko
 | Topic | Description |
 |-------|-------------|
 | [Korean War](korean-war.md) | The 1950–1953 war that permanently divided the peninsula and became the DPRK's foundational trauma. |
+| [Nuclear Weapons Program](nuclear-weapons-program.md) | The DPRK's nuclear arsenal from its covert 1980s origins through six tests (2006–2017) to a deliverable thermonuclear deterrent and the regime's central survival strategy. |
 <!-- END GENERATED: category-index -->

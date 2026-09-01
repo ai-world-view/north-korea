@@ -100,4 +100,7 @@ Domestically, Kim Jong-un has demonstrated that the Kim family system is capable
 - [Government Structure](../government-politics/government-structure.md) — the party, state, and military organs through which he rules
 - [Economic System and Famine](../economy/economic-system-and-famine.md) — the jangmadang markets and sanctioned economy of his era
 - [Korean War](../history/korean-war.md) — foundational conflict of the state he inherited
+- [Nuclear Weapons Program](../history/nuclear-weapons-program.md) — completed the thermonuclear arsenal and deliverable deterrent under his rule
+- [Workers' Party of Korea](../government-politics/workers-party-of-korea.md) — the ruling party he subordinated to his personal authority
+- [Kim Yo-jong](../people/kim-yo-jong.md) — his sister, trusted advisor, and diplomatic proxy
 <!-- END GENERATED: crossrefs -->

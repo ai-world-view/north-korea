@@ -105,4 +105,7 @@ Kim Jong-un's personal image management—appearing publicly with his wife Ri So
 - [Mount Paektu](../geography/mount-paektu.md) — the sacred mountain at the center of the "Paektu bloodline" myth
 - [Economic System and Famine](../economy/economic-system-and-famine.md) — the Chollima speed campaigns and the propaganda framing of the famine
 - [Korean War](../history/korean-war.md) — the anti-imperialist narrative that anchors state ideology
+- [Workers' Party of Korea](../government-politics/workers-party-of-korea.md) — the party that disseminates juche and directs the propaganda apparatus
+- [Nuclear Weapons Program](../history/nuclear-weapons-program.md) — the program that reinforces military-first ideology and regime legitimacy
+- [Kim Yo-jong](../people/kim-yo-jong.md) — directs the Propaganda and Agitation Department that runs the ideological apparatus
 <!-- END GENERATED: crossrefs -->

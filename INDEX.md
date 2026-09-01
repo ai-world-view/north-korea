@@ -19,12 +19,14 @@ Category index: [geography/index.md](geography/index.md)
 ## History
 
 - [Korean War](history/korean-war.md) — The 1950–1953 war that permanently divided the peninsula and became the DPRK's foundational trauma.
+- [Nuclear Weapons Program](history/nuclear-weapons-program.md) — The DPRK's nuclear arsenal from its covert 1980s origins through six tests to a deliverable thermonuclear deterrent.
 
 Category index: [history/index.md](history/index.md)
 
 ## Government & Politics
 
 - [Government Structure](government-politics/government-structure.md) — The DPRK's one-party totalitarian system: the Supreme Leader, the Workers' Party of Korea, the state organs, the military, and the security apparatus.
+- [Workers' Party of Korea](government-politics/workers-party-of-korea.md) — The sole ruling party and institutional backbone of the totalitarian state, from its 1945 founding to the party under Kim Jong-un.
 
 Category index: [government-politics/index.md](government-politics/index.md)
 
@@ -45,6 +47,7 @@ Category index: [culture-society/index.md](culture-society/index.md)
 - [Kim Il-sung](people/kim-il-sung.md) — Founding leader of the DPRK (1912–1994): architect of its political system, juche ideology, personality cult, and dynastic succession.
 - [Kim Jong-il](people/kim-jong-il.md) — Second leader of the DPRK (1942–2011): Kim Il-sung's successor, architect of the Songun policy who ruled through the famine and the first nuclear test.
 - [Kim Jong-un](people/kim-jong-un.md) — Third leader of the DPRK (2011–present): Kim Jong-il's youngest son, who completed the nuclear deterrent and consolidated third-generation dynastic rule.
+- [Kim Yo-jong](people/kim-yo-jong.md) — Sister and key advisor to Kim Jong-un; the regime's chief propagandist, diplomatic proxy and enforcer, and a potential succession regent.
 
 Category index: [people/index.md](people/index.md)
 <!-- END GENERATED: master-index -->

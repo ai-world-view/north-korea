@@ -134,4 +134,5 @@ The Korean War shaped North Korea's subsequent development in several fundamenta
 - [Government Structure](../government-politics/government-structure.md) — the militarized political system the war entrenched
 - [Pyongyang](../geography/pyongyang.md) — the capital devastated by wartime bombing and rebuilt afterward
 - [State Ideology and Propaganda](../culture-society/state-ideology-and-propaganda.md) — the anti-imperialist narrative of the war that anchors state ideology
+- [Nuclear Weapons Program](nuclear-weapons-program.md) — the unresolved war and armistice motivated the later pursuit of a strategic deterrent
 <!-- END GENERATED: crossrefs -->
