@@ -115,4 +115,5 @@ Internally, the program has justified the regime's continued militarization and 
 - [Economic System and Famine](../economy/economic-system-and-famine.md) — the Byungjin Line attempts to balance weapons and development
 - [State Ideology and Propaganda](../culture-society/state-ideology-and-propaganda.md) — the program justifies military-first ideology and regime legitimacy
 - [Korean War](../history/korean-war.md) — historical trauma that motivated the pursuit of a strategic deterrent
+- [Korean People's Army](../government-politics/korean-peoples-army.md) — the Strategic Forces Command that operates the nuclear and missile arsenal
 <!-- END GENERATED: crossrefs -->

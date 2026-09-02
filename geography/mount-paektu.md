@@ -56,4 +56,5 @@ The Paektu region hosts one of the least-disturbed temperate forest ecosystems i
 - [Kim Jong-un](../people/kim-jong-un.md) — photographed on horseback at the summit to assert the "Paektu bloodline"
 - [State Ideology and Propaganda](../culture-society/state-ideology-and-propaganda.md) — the sacred-mountain mythology woven into the personality cult
 - [Pyongyang](../geography/pyongyang.md) — the capital where Paektu imagery saturates monuments and murals
+- [Hamhung](../geography/hamhung.md) — the east-coast industrial city set against the northeastern mountains
 <!-- END GENERATED: crossrefs -->

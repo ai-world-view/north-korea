@@ -128,4 +128,7 @@ The famine of the 1990s is a watershed in North Korean history, a catastrophe th
 - [Kim Jong-un](../people/kim-jong-un.md) — tolerated the jangmadang markets while ruling under the heaviest sanctions regime
 - [State Ideology and Propaganda](../culture-society/state-ideology-and-propaganda.md) — the Chollima speed campaigns and the propaganda framing of the famine
 - [Nuclear Weapons Program](../history/nuclear-weapons-program.md) — the Byungjin Line sought to balance weapons development against the economy
+- [Korean People's Army](../government-politics/korean-peoples-army.md) — the Songun-era military that absorbed scarce resources during the famine
+- [Hamhung](../geography/hamhung.md) — the industrial city devastated by the collapse of the planned economy and the famine
+- [Education System](../culture-society/education-system.md) — the schooling system gutted when the famine broke the state's capacity to provide
 <!-- END GENERATED: crossrefs -->

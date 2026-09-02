@@ -135,4 +135,5 @@ His body was embalmed and placed in the Kumsusan Palace of the Sun alongside his
 - [Nuclear Weapons Program](../history/nuclear-weapons-program.md) — presided over the first nuclear tests (2006, 2009) under the Songun policy
 - [Workers' Party of Korea](../government-politics/workers-party-of-korea.md) — the ruling party whose ideological role he expanded and whose Songun line he initiated
 - [Kim Yo-jong](../people/kim-yo-jong.md) — his daughter, now a senior regime official and propagandist
+- [Korean People's Army](../government-politics/korean-peoples-army.md) — the military he elevated to the center of state through the Songun policy
 <!-- END GENERATED: crossrefs -->

@@ -142,4 +142,6 @@ Kim Il-sung's legacy operates on multiple levels:
 - [State Ideology and Propaganda](../culture-society/state-ideology-and-propaganda.md) — juche and the personality cult he originated
 - [Mount Paektu](../geography/mount-paektu.md) — the sacred mountain of his mythologized guerrilla campaign
 - [Workers' Party of Korea](../government-politics/workers-party-of-korea.md) — the ruling party he founded in 1945 and bent to the personality cult
+- [Korean People's Army](../government-politics/korean-peoples-army.md) — the army traced to his guerrilla legend and founded under his rule in 1948
+- [Education System](../culture-society/education-system.md) — the schooling built around his revolutionary history and cult
 <!-- END GENERATED: crossrefs -->

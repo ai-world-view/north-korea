@@ -108,4 +108,6 @@ Kim Jong-un's personal image management—appearing publicly with his wife Ri So
 - [Workers' Party of Korea](../government-politics/workers-party-of-korea.md) — the party that disseminates juche and directs the propaganda apparatus
 - [Nuclear Weapons Program](../history/nuclear-weapons-program.md) — the program that reinforces military-first ideology and regime legitimacy
 - [Kim Yo-jong](../people/kim-yo-jong.md) — directs the Propaganda and Agitation Department that runs the ideological apparatus
+- [Education System](education-system.md) — the schools that instill juche and the personality cult from childhood
+- [Korean People's Army](../government-politics/korean-peoples-army.md) — the military sustained by the same ideological apparatus
 <!-- END GENERATED: crossrefs -->

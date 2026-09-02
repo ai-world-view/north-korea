@@ -103,4 +103,5 @@ Domestically, Kim Jong-un has demonstrated that the Kim family system is capable
 - [Nuclear Weapons Program](../history/nuclear-weapons-program.md) — completed the thermonuclear arsenal and deliverable deterrent under his rule
 - [Workers' Party of Korea](../government-politics/workers-party-of-korea.md) — the ruling party he subordinated to his personal authority
 - [Kim Yo-jong](../people/kim-yo-jong.md) — his sister, trusted advisor, and diplomatic proxy
+- [Korean People's Army](../government-politics/korean-peoples-army.md) — the military he commands as Supreme Commander and has selectively modernized
 <!-- END GENERATED: crossrefs -->

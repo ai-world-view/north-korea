@@ -99,4 +99,5 @@ Pyongyang's relationship with the rest of North Korea is hierarchical and unequa
 - [Kim Jong-un](../people/kim-jong-un.md) — remade districts of the capital with high-rise projects such as Ryomyong Street
 - [State Ideology and Propaganda](../culture-society/state-ideology-and-propaganda.md) — the monuments, murals, and mass games staged in the capital
 - [Mount Paektu](../geography/mount-paektu.md) — sacred-mountain imagery reproduced across Pyongyang's monuments
+- [Hamhung](../geography/hamhung.md) — the neglected second city, a contrast to the privileged capital
 <!-- END GENERATED: crossrefs -->

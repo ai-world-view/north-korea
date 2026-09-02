@@ -143,4 +143,6 @@ Each succession has been managed through the party and military apparatus as a q
 - [Workers' Party of Korea](workers-party-of-korea.md) — the ruling party at the institutional core of the state system
 - [Nuclear Weapons Program](../history/nuclear-weapons-program.md) — the strategic program managed through the state and military apparatus
 - [Kim Yo-jong](../people/kim-yo-jong.md) — senior party official and influential sister of the Supreme Leader
+- [Korean People's Army](korean-peoples-army.md) — the military pillar of the state and the regime's ultimate coercive instrument
+- [Education System](../culture-society/education-system.md) — the schooling apparatus that reproduces loyalty to the state
 <!-- END GENERATED: crossrefs -->
