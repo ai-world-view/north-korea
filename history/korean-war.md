@@ -137,4 +137,5 @@ The Korean War shaped North Korea's subsequent development in several fundamenta
 - [Nuclear Weapons Program](nuclear-weapons-program.md) — the unresolved war and armistice motivated the later pursuit of a strategic deterrent
 - [Korean People's Army](../government-politics/korean-peoples-army.md) — the military that launched and fought the war, permanently shaped by it
 - [Hamhung](../geography/hamhung.md) — site of the December 1950 Hungnam evacuation during the war
+- [Kaesong](../geography/kaesong.md) — the border city whose armistice-line placement transferred it from South to North; site of the early truce talks
 <!-- END GENERATED: crossrefs -->

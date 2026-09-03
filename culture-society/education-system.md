@@ -139,4 +139,5 @@ Defectors who experienced the education system frequently report that the consta
 - [Economic System and Famine](../economy/economic-system-and-famine.md) — how the Arduous March famine devastated schooling
 - [Korean People's Army](../government-politics/korean-peoples-army.md) — military training integrated throughout secondary and university education
 - [Hamhung](../geography/hamhung.md) — provincial city whose schools were among the worst hit by the famine-era collapse
+- [Kwanliso (Political Prison Camps)](kwanliso.md) — the punitive counterpart to indoctrination, enforcing the disloyalty that schooling teaches citizens to fear
 <!-- END GENERATED: crossrefs -->

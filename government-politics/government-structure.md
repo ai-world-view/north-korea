@@ -145,4 +145,5 @@ Each succession has been managed through the party and military apparatus as a q
 - [Kim Yo-jong](../people/kim-yo-jong.md) — senior party official and influential sister of the Supreme Leader
 - [Korean People's Army](korean-peoples-army.md) — the military pillar of the state and the regime's ultimate coercive instrument
 - [Education System](../culture-society/education-system.md) — the schooling apparatus that reproduces loyalty to the state
+- [Kwanliso (Political Prison Camps)](../culture-society/kwanliso.md) — the political prison-camp system administered by the state-security organs outside any judicial process
 <!-- END GENERATED: crossrefs -->

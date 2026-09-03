@@ -114,4 +114,5 @@ Hamhung remains strategically important to the DPRK's economy and military — i
 - [Korean People's Army](../government-politics/korean-peoples-army.md) — the military production, naval installations, and strategic importance of Hamhung's facilities
 - [Mount Paektu](mount-paektu.md) — the mountainous northeastern regions that frame the city
 - [Education System](../culture-society/education-system.md) — provincial schools in Hamhung were among the worst affected by the famine-era collapse
+- [Kaesong](kaesong.md) — another major DPRK city, the medieval Goryeo capital on the southern border
 <!-- END GENERATED: crossrefs -->

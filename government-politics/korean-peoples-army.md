@@ -168,4 +168,5 @@ The KPA's centrality — to defense, economic production, and political control 
 - [State Ideology and Propaganda](../culture-society/state-ideology-and-propaganda.md) — the ideological framework sustaining military loyalty
 - [Hamhung](../geography/hamhung.md) — a key KPA industrial and naval-installation city
 - [Economic System and Famine](../economy/economic-system-and-famine.md) — how Songun channeled resources to the military during the famine
+- [Kwanliso (Political Prison Camps)](../culture-society/kwanliso.md) — the political prison camps guarded and administered by the regime's security forces
 <!-- END GENERATED: crossrefs -->

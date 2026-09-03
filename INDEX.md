@@ -14,6 +14,7 @@ A complete index of the knowledge base on the country north korea, grouped by ca
 - [Pyongyang](geography/pyongyang.md) — Capital and largest city of the DPRK on the Taedong River: the political, cultural, and symbolic heart of the state.
 - [Mount Paektu](geography/mount-paektu.md) — The peninsula's highest peak and sacred volcano on the China–DPRK border, central to Korean and Kim-dynasty mythology.
 - [Hamhung](geography/hamhung.md) — The DPRK's second-largest city and chemical-industrial center on the east coast, home of Vinalon and the Hungnam port.
+- [Kaesong](geography/kaesong.md) — The medieval Goryeo capital and DMZ border city, host to the 2004–2016 Kaesong Industrial Complex, the flagship inter-Korean economic experiment.
 
 Category index: [geography/index.md](geography/index.md)
 
@@ -42,6 +43,7 @@ Category index: [economy/index.md](economy/index.md)
 
 - [State Ideology and Propaganda](culture-society/state-ideology-and-propaganda.md) — Juche, the personality cult, the state media monopoly, mass mobilization, and the songbun class system that sustain totalitarian rule.
 - [Education System](culture-society/education-system.md) — The state-monopolized, militarized school system as an instrument of loyalty indoctrination, from 12-year compulsory schooling to elite science institutions.
+- [Kwanliso (Political Prison Camps)](culture-society/kwanliso.md) — The DPRK's network of political prison camps, holding an estimated 80,000–120,000 detainees under a doctrine of three-generation collective guilt.
 
 Category index: [culture-society/index.md](culture-society/index.md)
 
@@ -51,6 +53,7 @@ Category index: [culture-society/index.md](culture-society/index.md)
 - [Kim Jong-il](people/kim-jong-il.md) — Second leader of the DPRK (1942–2011): Kim Il-sung's successor, architect of the Songun policy who ruled through the famine and the first nuclear test.
 - [Kim Jong-un](people/kim-jong-un.md) — Third leader of the DPRK (2011–present): Kim Jong-il's youngest son, who completed the nuclear deterrent and consolidated third-generation dynastic rule.
 - [Kim Yo-jong](people/kim-yo-jong.md) — Sister and key advisor to Kim Jong-un; the regime's chief propagandist, diplomatic proxy and enforcer, and a potential succession regent.
+- [Ko Yong-hui](people/ko-yong-hui.md) — Mother of Kim Jong-un and Kim Yo-jong and longtime partner of Kim Jong-il, whose informal influence shaped the third-generation succession.
 
 Category index: [people/index.md](people/index.md)
 <!-- END GENERATED: master-index -->

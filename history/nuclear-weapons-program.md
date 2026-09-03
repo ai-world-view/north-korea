@@ -116,4 +116,5 @@ Internally, the program has justified the regime's continued militarization and 
 - [State Ideology and Propaganda](../culture-society/state-ideology-and-propaganda.md) — the program justifies military-first ideology and regime legitimacy
 - [Korean War](../history/korean-war.md) — historical trauma that motivated the pursuit of a strategic deterrent
 - [Korean People's Army](../government-politics/korean-peoples-army.md) — the Strategic Forces Command that operates the nuclear and missile arsenal
+- [Kaesong](../geography/kaesong.md) — the inter-Korean industrial complex Seoul closed in 2016 over the weapons program and sanctions
 <!-- END GENERATED: crossrefs -->

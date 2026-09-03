@@ -109,4 +109,5 @@ Most significantly, Kim Yo-jong's existence as a potential successor or co-regen
 - [Workers' Party of Korea](../government-politics/workers-party-of-korea.md) — the party institution through which she exercises authority
 - [Government Structure](../government-politics/government-structure.md) — the broader government she is positioned within
 - [Nuclear Weapons Program](../history/nuclear-weapons-program.md) — the strategic capability she has publicly threatened to deploy against South Korea and Japan
+- [Ko Yong-hui](ko-yong-hui.md) — her mother, the Osaka-born partner of Kim Jong-il
 <!-- END GENERATED: crossrefs -->

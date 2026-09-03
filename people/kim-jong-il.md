@@ -136,4 +136,5 @@ His body was embalmed and placed in the Kumsusan Palace of the Sun alongside his
 - [Workers' Party of Korea](../government-politics/workers-party-of-korea.md) — the ruling party whose ideological role he expanded and whose Songun line he initiated
 - [Kim Yo-jong](../people/kim-yo-jong.md) — his daughter, now a senior regime official and propagandist
 - [Korean People's Army](../government-politics/korean-peoples-army.md) — the military he elevated to the center of state through the Songun policy
+- [Ko Yong-hui](ko-yong-hui.md) — his longtime domestic partner and the mother of his successor
 <!-- END GENERATED: crossrefs -->

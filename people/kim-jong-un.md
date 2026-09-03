@@ -104,4 +104,5 @@ Domestically, Kim Jong-un has demonstrated that the Kim family system is capable
 - [Workers' Party of Korea](../government-politics/workers-party-of-korea.md) — the ruling party he subordinated to his personal authority
 - [Kim Yo-jong](../people/kim-yo-jong.md) — his sister, trusted advisor, and diplomatic proxy
 - [Korean People's Army](../government-politics/korean-peoples-army.md) — the military he commands as Supreme Commander and has selectively modernized
+- [Ko Yong-hui](ko-yong-hui.md) — his mother, whose advocacy in the inner court helped secure his succession
 <!-- END GENERATED: crossrefs -->
