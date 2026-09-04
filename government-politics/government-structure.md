@@ -146,4 +146,7 @@ Each succession has been managed through the party and military apparatus as a q
 - [Korean People's Army](korean-peoples-army.md) — the military pillar of the state and the regime's ultimate coercive instrument
 - [Education System](../culture-society/education-system.md) — the schooling apparatus that reproduces loyalty to the state
 - [Kwanliso (Political Prison Camps)](../culture-society/kwanliso.md) — the political prison-camp system administered by the state-security organs outside any judicial process
+- [State Security Department](state-security-department.md) — the secret-police organ at the core of the state's coercive apparatus
+- [Foreign Trade and Economic Sanctions](../economy/foreign-trade-and-sanctions.md) — the trade and sanctions environment the state manages
+- [Japanese Colonial Period (1910–1945)](../history/japanese-colonial-period.md) — the colonial roots of the state's founding narrative and industrial base
 <!-- END GENERATED: crossrefs -->

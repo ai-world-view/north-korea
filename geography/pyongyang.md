@@ -101,4 +101,7 @@ Pyongyang's relationship with the rest of North Korea is hierarchical and unequa
 - [Mount Paektu](../geography/mount-paektu.md) — sacred-mountain imagery reproduced across Pyongyang's monuments
 - [Hamhung](../geography/hamhung.md) — the neglected second city, a contrast to the privileged capital
 - [Kaesong](kaesong.md) — the historic Goryeo capital and DMZ border city to the south
+- [State Security Department](../government-politics/state-security-department.md) — the security service that gates residence in the privileged capital
+- [Foreign Trade and Economic Sanctions](../economy/foreign-trade-and-sanctions.md) — the sanctioned economy from which the capital is insulated
+- [Japanese Colonial Period (1910–1945)](../history/japanese-colonial-period.md) — the colonial rail and industrial investment that expanded the city
 <!-- END GENERATED: crossrefs -->

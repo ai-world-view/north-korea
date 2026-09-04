@@ -117,4 +117,6 @@ Internally, the program has justified the regime's continued militarization and 
 - [Korean War](../history/korean-war.md) — historical trauma that motivated the pursuit of a strategic deterrent
 - [Korean People's Army](../government-politics/korean-peoples-army.md) — the Strategic Forces Command that operates the nuclear and missile arsenal
 - [Kaesong](../geography/kaesong.md) — the inter-Korean industrial complex Seoul closed in 2016 over the weapons program and sanctions
+- [Foreign Trade and Economic Sanctions](../economy/foreign-trade-and-sanctions.md) — the UN and US sanctions regime triggered by the weapons tests
+- [Japanese Colonial Period (1910–1945)](japanese-colonial-period.md) — the colonial victim narrative underpinning the autarkic security posture
 <!-- END GENERATED: crossrefs -->

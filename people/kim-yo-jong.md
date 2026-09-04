@@ -110,4 +110,5 @@ Most significantly, Kim Yo-jong's existence as a potential successor or co-regen
 - [Government Structure](../government-politics/government-structure.md) — the broader government she is positioned within
 - [Nuclear Weapons Program](../history/nuclear-weapons-program.md) — the strategic capability she has publicly threatened to deploy against South Korea and Japan
 - [Ko Yong-hui](ko-yong-hui.md) — her mother, the Osaka-born partner of Kim Jong-il
+- [State Security Department](../government-politics/state-security-department.md) — the security-and-control apparatus paralleling her OGD role
 <!-- END GENERATED: crossrefs -->

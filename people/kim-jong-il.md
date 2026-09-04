@@ -137,4 +137,5 @@ His body was embalmed and placed in the Kumsusan Palace of the Sun alongside his
 - [Kim Yo-jong](../people/kim-yo-jong.md) — his daughter, now a senior regime official and propagandist
 - [Korean People's Army](../government-politics/korean-peoples-army.md) — the military he elevated to the center of state through the Songun policy
 - [Ko Yong-hui](ko-yong-hui.md) — his longtime domestic partner and the mother of his successor
+- [State Security Department](../government-politics/state-security-department.md) — the political-security apparatus he systematized after 1994
 <!-- END GENERATED: crossrefs -->

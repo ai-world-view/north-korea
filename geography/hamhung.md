@@ -115,4 +115,5 @@ Hamhung remains strategically important to the DPRK's economy and military — i
 - [Mount Paektu](mount-paektu.md) — the mountainous northeastern regions that frame the city
 - [Education System](../culture-society/education-system.md) — provincial schools in Hamhung were among the worst affected by the famine-era collapse
 - [Kaesong](kaesong.md) — another major DPRK city, the medieval Goryeo capital on the southern border
+- [Japanese Colonial Period (1910–1945)](../history/japanese-colonial-period.md) — the colonial Hungnam chemical complex that became the city's industrial nucleus
 <!-- END GENERATED: crossrefs -->

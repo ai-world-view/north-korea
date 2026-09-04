@@ -132,4 +132,6 @@ The famine of the 1990s is a watershed in North Korean history, a catastrophe th
 - [Hamhung](../geography/hamhung.md) — the industrial city devastated by the collapse of the planned economy and the famine
 - [Education System](../culture-society/education-system.md) — the schooling system gutted when the famine broke the state's capacity to provide
 - [Kaesong](../geography/kaesong.md) — the industrial complex that briefly earned the DPRK hard currency through inter-Korean trade
+- [Foreign Trade and Economic Sanctions](foreign-trade-and-sanctions.md) — the international sanctions regime that has squeezed the economy since the 1990s
+- [State Security Department](../government-politics/state-security-department.md) — the security apparatus that contains the social pressures of economic crisis
 <!-- END GENERATED: crossrefs -->

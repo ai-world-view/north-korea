@@ -78,4 +78,6 @@ Kaesong is significant on multiple overlapping dimensions. As the former Goryeo 
 - [Hamhung](hamhung.md) — another major DPRK city, a contrasting east-coast industrial center
 - [Kim Jong-il](../people/kim-jong-il.md) — the leader whose 2000 summit with Kim Dae-jung launched the industrial complex
 - [Kim Jong-un](../people/kim-jong-un.md) — the leader under whom the complex closed and the 2018 revival proposals stalled
+- [Foreign Trade and Economic Sanctions](../economy/foreign-trade-and-sanctions.md) — the industrial complex as a rare hard-currency source before its 2016 closure
+- [Japanese Colonial Period (1910–1945)](../history/japanese-colonial-period.md) — the colonial administration of the historic Goryeo capital
 <!-- END GENERATED: crossrefs -->

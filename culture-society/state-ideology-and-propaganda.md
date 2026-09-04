@@ -111,4 +111,7 @@ Kim Jong-un's personal image management—appearing publicly with his wife Ri So
 - [Education System](education-system.md) — the schools that instill juche and the personality cult from childhood
 - [Korean People's Army](../government-politics/korean-peoples-army.md) — the military sustained by the same ideological apparatus
 - [Kwanliso (Political Prison Camps)](kwanliso.md) — the prison-camp system that enforces the ideological order through collective punishment
+- [State Security Department](../government-politics/state-security-department.md) — the security service that enforces the ideological order
+- [Foreign Trade and Economic Sanctions](../economy/foreign-trade-and-sanctions.md) — the juche self-reliance doctrine that frames economic isolation
+- [Japanese Colonial Period (1910–1945)](../history/japanese-colonial-period.md) — the anti-imperialist experience from which juche derives
 <!-- END GENERATED: crossrefs -->

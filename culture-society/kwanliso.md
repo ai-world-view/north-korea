@@ -74,4 +74,5 @@ The system's scale—80,000 to 120,000 detainees in the mid-2020s, after a peak 
 - [Kim Il-sung](../people/kim-il-sung.md) — the founder whose post-war purges and 1958–1960 loyalty survey created the system
 - [Kim Jong-il](../people/kim-jong-il.md) — the successor under whom the camps expanded to secure the dynastic succession
 - [Kim Jong-un](../people/kim-jong-un.md) — the current leader under whom the system persists into the mid-2020s
+- [State Security Department](../government-politics/state-security-department.md) — the secret police whose referrals feed the political prison-camp system
 <!-- END GENERATED: crossrefs -->

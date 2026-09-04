@@ -104,4 +104,5 @@ The persistence of the WPK across three generations of Kim family rule—and the
 - [Kim Jong-un](../people/kim-jong-un.md) — subordinated the party to personal presidential authority
 - [Kim Yo-jong](../people/kim-yo-jong.md) — contemporary senior party official and influential sister of the current leader
 - [Korean People's Army](korean-peoples-army.md) — the military the party commands through its Central Military Commission
+- [State Security Department](state-security-department.md) — the security organ whose control functions parallel the party's apparatus
 <!-- END GENERATED: crossrefs -->

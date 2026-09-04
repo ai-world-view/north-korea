@@ -169,4 +169,6 @@ The KPA's centrality — to defense, economic production, and political control 
 - [Hamhung](../geography/hamhung.md) — a key KPA industrial and naval-installation city
 - [Economic System and Famine](../economy/economic-system-and-famine.md) — how Songun channeled resources to the military during the famine
 - [Kwanliso (Political Prison Camps)](../culture-society/kwanliso.md) — the political prison camps guarded and administered by the regime's security forces
+- [Foreign Trade and Economic Sanctions](../economy/foreign-trade-and-sanctions.md) — the RGB and Lazarus Group cyber operations that finance the state under sanctions
+- [State Security Department](state-security-department.md) — the internal-security service whose RGB and Military Security Command remits overlap the KPA
 <!-- END GENERATED: crossrefs -->

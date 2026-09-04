@@ -22,6 +22,7 @@ Category index: [geography/index.md](geography/index.md)
 
 - [Korean War](history/korean-war.md) — The 1950–1953 war that permanently divided the peninsula and became the DPRK's foundational trauma.
 - [Nuclear Weapons Program](history/nuclear-weapons-program.md) — The DPRK's nuclear arsenal from its covert 1980s origins through six tests to a deliverable thermonuclear deterrent.
+- [Japanese Colonial Period (1910–1945)](history/japanese-colonial-period.md) — Korea under Japanese imperial rule, the nationalist resistance, and the colonial foundations of the DPRK's anti-imperialist ideology and industrial base.
 
 Category index: [history/index.md](history/index.md)
 
@@ -30,12 +31,14 @@ Category index: [history/index.md](history/index.md)
 - [Government Structure](government-politics/government-structure.md) — The DPRK's one-party totalitarian system: the Supreme Leader, the Workers' Party of Korea, the state organs, the military, and the security apparatus.
 - [Workers' Party of Korea](government-politics/workers-party-of-korea.md) — The sole ruling party and institutional backbone of the totalitarian state, from its 1945 founding to the party under Kim Jong-un.
 - [Korean People's Army](government-politics/korean-peoples-army.md) — The DPRK's ~1.2-million-strong military and economic conglomerate, the coercive skeleton of the Kim regime and custodian of its nuclear forces.
+- [State Security Department](government-politics/state-security-department.md) — The Bowibu (Ministry of State Security), the regime's secret police and pervasive internal-surveillance apparatus, answerable only to the Supreme Leader.
 
 Category index: [government-politics/index.md](government-politics/index.md)
 
 ## Economy
 
 - [Economic System and Famine](economy/economic-system-and-famine.md) — The DPRK's centrally planned economy and the catastrophic 1994–1998 famine (the "Arduous March").
+- [Foreign Trade and Economic Sanctions](economy/foreign-trade-and-sanctions.md) — The DPRK's external trade, dependence on China and Russia, and the escalating UN and US sanctions regime that has squeezed the economy since the 1990s.
 
 Category index: [economy/index.md](economy/index.md)
 

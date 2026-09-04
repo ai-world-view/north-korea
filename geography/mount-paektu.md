@@ -58,4 +58,5 @@ The Paektu region hosts one of the least-disturbed temperate forest ecosystems i
 - [Pyongyang](../geography/pyongyang.md) — the capital where Paektu imagery saturates monuments and murals
 - [Hamhung](../geography/hamhung.md) — the east-coast industrial city set against the northeastern mountains
 - [Ko Yong-hui](../people/ko-yong-hui.md) — Kim Jong-un's mother, whose documented biography contradicts the Paektu birth myth
+- [Japanese Colonial Period (1910–1945)](../history/japanese-colonial-period.md) — the colonial-era guerrilla struggle tied to the mountain's revolutionary myth
 <!-- END GENERATED: crossrefs -->

@@ -144,4 +144,5 @@ Kim Il-sung's legacy operates on multiple levels:
 - [Workers' Party of Korea](../government-politics/workers-party-of-korea.md) — the ruling party he founded in 1945 and bent to the personality cult
 - [Korean People's Army](../government-politics/korean-peoples-army.md) — the army traced to his guerrilla legend and founded under his rule in 1948
 - [Education System](../culture-society/education-system.md) — the schooling built around his revolutionary history and cult
+- [Japanese Colonial Period (1910–1945)](../history/japanese-colonial-period.md) — the era of his anti-Japanese guerrilla struggle and the DPRK founding myth
 <!-- END GENERATED: crossrefs -->
