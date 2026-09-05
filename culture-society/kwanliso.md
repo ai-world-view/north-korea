@@ -75,4 +75,6 @@ The system's scale—80,000 to 120,000 detainees in the mid-2020s, after a peak 
 - [Kim Jong-il](../people/kim-jong-il.md) — the successor under whom the camps expanded to secure the dynastic succession
 - [Kim Jong-un](../people/kim-jong-un.md) — the current leader under whom the system persists into the mid-2020s
 - [State Security Department](../government-politics/state-security-department.md) — the secret police whose referrals feed the political prison-camp system
+- [Religion and Atheism in North Korea](religion-and-atheism.md) — the faith, above all Christianity, whose practitioners are interned in the camps
+- [Mining and Resource Extraction](../economy/mining-and-resources.md) — the forced mine labor performed by prisoners at camps such as Kaechon
 <!-- END GENERATED: crossrefs -->

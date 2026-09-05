@@ -119,4 +119,6 @@ Internally, the program has justified the regime's continued militarization and 
 - [Kaesong](../geography/kaesong.md) — the inter-Korean industrial complex Seoul closed in 2016 over the weapons program and sanctions
 - [Foreign Trade and Economic Sanctions](../economy/foreign-trade-and-sanctions.md) — the UN and US sanctions regime triggered by the weapons tests
 - [Japanese Colonial Period (1910–1945)](japanese-colonial-period.md) — the colonial victim narrative underpinning the autarkic security posture
+- [Energy Crisis and Electricity Shortage](../economy/energy-crisis-and-electricity.md) — the 1994 Agreed Framework and the interplay of energy and deterrence
+- [Mining and Resource Extraction](../economy/mining-and-resources.md) — the uranium mining that feeds the nuclear fuel cycle
 <!-- END GENERATED: crossrefs -->

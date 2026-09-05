@@ -39,6 +39,8 @@ Category index: [government-politics/index.md](government-politics/index.md)
 
 - [Economic System and Famine](economy/economic-system-and-famine.md) — The DPRK's centrally planned economy and the catastrophic 1994–1998 famine (the "Arduous March").
 - [Foreign Trade and Economic Sanctions](economy/foreign-trade-and-sanctions.md) — The DPRK's external trade, dependence on China and Russia, and the escalating UN and US sanctions regime that has squeezed the economy since the 1990s.
+- [Energy Crisis and Electricity Shortage](economy/energy-crisis-and-electricity.md) — The post-1991 collapse of Soviet-subsidized energy that triggered the famine and left the country in chronic darkness.
+- [Mining and Resource Extraction](economy/mining-and-resources.md) — The DPRK's vast mineral reserves and the coal, iron, rare-earth, and uranium extraction that funds the sanctioned state.
 
 Category index: [economy/index.md](economy/index.md)
 
@@ -47,6 +49,7 @@ Category index: [economy/index.md](economy/index.md)
 - [State Ideology and Propaganda](culture-society/state-ideology-and-propaganda.md) — Juche, the personality cult, the state media monopoly, mass mobilization, and the songbun class system that sustain totalitarian rule.
 - [Education System](culture-society/education-system.md) — The state-monopolized, militarized school system as an instrument of loyalty indoctrination, from 12-year compulsory schooling to elite science institutions.
 - [Kwanliso (Political Prison Camps)](culture-society/kwanliso.md) — The DPRK's network of political prison camps, holding an estimated 80,000–120,000 detainees under a doctrine of three-generation collective guilt.
+- [Religion and Atheism in North Korea](culture-society/religion-and-atheism.md) — The regime's official atheism and its systematic suppression of religion — above all Christianity, once rooted in the north — as a threat to totalitarian control.
 
 Category index: [culture-society/index.md](culture-society/index.md)
 

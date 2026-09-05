@@ -105,4 +105,5 @@ The persistence of the WPK across three generations of Kim family rule—and the
 - [Kim Yo-jong](../people/kim-yo-jong.md) — contemporary senior party official and influential sister of the current leader
 - [Korean People's Army](korean-peoples-army.md) — the military the party commands through its Central Military Commission
 - [State Security Department](state-security-department.md) — the security organ whose control functions parallel the party's apparatus
+- [Religion and Atheism in North Korea](../culture-society/religion-and-atheism.md) — the party's ideological oversight of atheism doctrine and religious suppression
 <!-- END GENERATED: crossrefs -->

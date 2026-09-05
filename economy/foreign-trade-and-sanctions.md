@@ -121,4 +121,6 @@ Sanctions have also constrained the regime's ability to undertake major infrastr
 - [Government Structure](../government-politics/government-structure.md) — the state apparatus that directs foreign trade and evades sanctions
 - [State Ideology and Propaganda](../culture-society/state-ideology-and-propaganda.md) — the juche self-reliance doctrine that frames economic isolation
 - [Pyongyang](../geography/pyongyang.md) — the privileged capital insulated from the worst of the sanctioned economy
+- [Mining and Resource Extraction](mining-and-resources.md) — coal and mineral exports as the primary sanctions target and hard-currency source
+- [Energy Crisis and Electricity Shortage](energy-crisis-and-electricity.md) — the oil-import constraints that sanctions impose on the energy supply
 <!-- END GENERATED: crossrefs -->

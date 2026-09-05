@@ -136,4 +136,5 @@ See [State Ideology and Propaganda](../culture-society/state-ideology-and-propag
 - [Kim Jong-il](../people/kim-jong-il.md) — the leader under whom the Bowibu was systematized as a political-security apparatus
 - [Kim Yo-jong](../people/kim-yo-jong.md) — the sister and senior party official whose OGD role parallels the Bowibu's reach
 - [Economic System and Famine](../economy/economic-system-and-famine.md) — the economic crises whose social pressures the security state contains
+- [Religion and Atheism in North Korea](../culture-society/religion-and-atheism.md) — the religious practice the Bowibu detects and punishes as ideological subversion
 <!-- END GENERATED: crossrefs -->

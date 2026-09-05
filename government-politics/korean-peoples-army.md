@@ -171,4 +171,6 @@ The KPA's centrality — to defense, economic production, and political control 
 - [Kwanliso (Political Prison Camps)](../culture-society/kwanliso.md) — the political prison camps guarded and administered by the regime's security forces
 - [Foreign Trade and Economic Sanctions](../economy/foreign-trade-and-sanctions.md) — the RGB and Lazarus Group cyber operations that finance the state under sanctions
 - [State Security Department](state-security-department.md) — the internal-security service whose RGB and Military Security Command remits overlap the KPA
+- [Mining and Resource Extraction](../economy/mining-and-resources.md) — the mines the KPA operates as an economic conglomerate
+- [Energy Crisis and Electricity Shortage](../economy/energy-crisis-and-electricity.md) — the hydropower projects the KPA built and the priority power it receives
 <!-- END GENERATED: crossrefs -->

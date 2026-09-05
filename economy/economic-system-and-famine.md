@@ -134,4 +134,6 @@ The famine of the 1990s is a watershed in North Korean history, a catastrophe th
 - [Kaesong](../geography/kaesong.md) — the industrial complex that briefly earned the DPRK hard currency through inter-Korean trade
 - [Foreign Trade and Economic Sanctions](foreign-trade-and-sanctions.md) — the international sanctions regime that has squeezed the economy since the 1990s
 - [State Security Department](../government-politics/state-security-department.md) — the security apparatus that contains the social pressures of economic crisis
+- [Energy Crisis and Electricity Shortage](energy-crisis-and-electricity.md) — the post-Soviet energy collapse that directly precipitated the famine
+- [Mining and Resource Extraction](mining-and-resources.md) — the extractive sector within the planned economy and a hard-currency lifeline
 <!-- END GENERATED: crossrefs -->

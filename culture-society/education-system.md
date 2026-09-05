@@ -141,4 +141,5 @@ Defectors who experienced the education system frequently report that the consta
 - [Hamhung](../geography/hamhung.md) — provincial city whose schools were among the worst hit by the famine-era collapse
 - [Kwanliso (Political Prison Camps)](kwanliso.md) — the punitive counterpart to indoctrination, enforcing the disloyalty that schooling teaches citizens to fear
 - [State Security Department](../government-politics/state-security-department.md) — the surveillance apparatus that extends loyalty monitoring into schools
+- [Religion and Atheism in North Korea](religion-and-atheism.md) — the atheist indoctrination the schools deliver as scientific materialism
 <!-- END GENERATED: crossrefs -->
