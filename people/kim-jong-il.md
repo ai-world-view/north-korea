@@ -138,4 +138,6 @@ His body was embalmed and placed in the Kumsusan Palace of the Sun alongside his
 - [Korean People's Army](../government-politics/korean-peoples-army.md) — the military he elevated to the center of state through the Songun policy
 - [Ko Yong-hui](ko-yong-hui.md) — his longtime domestic partner and the mother of his successor
 - [State Security Department](../government-politics/state-security-department.md) — the political-security apparatus he systematized after 1994
+- [Jang Song-thaek](jang-song-thaek.md) — his brother-in-law and economic administrator, later purged under Kim Jong-un
+- [Inter-Korean Relations and Dialogue](../history/inter-korean-relations.md) — the Sunshine Policy summits (2000, 2007) he held with the South
 <!-- END GENERATED: crossrefs -->

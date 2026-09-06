@@ -118,4 +118,5 @@ Hamhung remains strategically important to the DPRK's economy and military — i
 - [Japanese Colonial Period (1910–1945)](../history/japanese-colonial-period.md) — the colonial Hungnam chemical complex that became the city's industrial nucleus
 - [Energy Crisis and Electricity Shortage](../economy/energy-crisis-and-electricity.md) — the energy-dependent Vinalon and chemical industry that the power collapse crippled
 - [Mining and Resource Extraction](../economy/mining-and-resources.md) — the regional coal that fed the city's chemical and heavy industry
+- [Wonsan](wonsan.md) — the neighboring east-coast port city to the south
 <!-- END GENERATED: crossrefs -->

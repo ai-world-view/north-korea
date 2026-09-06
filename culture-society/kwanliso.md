@@ -77,4 +77,5 @@ The system's scale—80,000 to 120,000 detainees in the mid-2020s, after a peak 
 - [State Security Department](../government-politics/state-security-department.md) — the secret police whose referrals feed the political prison-camp system
 - [Religion and Atheism in North Korea](religion-and-atheism.md) — the faith, above all Christianity, whose practitioners are interned in the camps
 - [Mining and Resource Extraction](../economy/mining-and-resources.md) — the forced mine labor performed by prisoners at camps such as Kaechon
+- [Jang Song-thaek](../people/jang-song-thaek.md) — purged official whose relatives were consigned to the camps under collective guilt
 <!-- END GENERATED: crossrefs -->

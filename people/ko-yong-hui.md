@@ -64,4 +64,5 @@ Her son [Kim Jong-un](kim-jong-un.md)'s consolidation of power after 2011, inclu
 - [Kim Il-sung](kim-il-sung.md) — the founder who disapproved of his son's household and kept her existence secret
 - [Workers' Party of Korea](../government-politics/workers-party-of-korea.md) — the party through which the succession she shaped was ratified
 - [Mount Paektu](../geography/mount-paektu.md) — the sacred-birth mythology her documented biography contradicts
+- [Jang Song-thaek](jang-song-thaek.md) — the family power broker of the succession era, purged in 2013
 <!-- END GENERATED: crossrefs -->

@@ -173,4 +173,5 @@ The KPA's centrality — to defense, economic production, and political control 
 - [State Security Department](state-security-department.md) — the internal-security service whose RGB and Military Security Command remits overlap the KPA
 - [Mining and Resource Extraction](../economy/mining-and-resources.md) — the mines the KPA operates as an economic conglomerate
 - [Energy Crisis and Electricity Shortage](../economy/energy-crisis-and-electricity.md) — the hydropower projects the KPA built and the priority power it receives
+- [Wonsan](../geography/wonsan.md) — home of Kalma Airport, the East Sea Fleet, and SLBM test sites
 <!-- END GENERATED: crossrefs -->

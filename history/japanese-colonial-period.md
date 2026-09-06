@@ -123,4 +123,5 @@ The experience of Japanese colonialism thus shaped the DPRK's foundational ideol
 - [Pyongyang](../geography/pyongyang.md) — the capital that expanded under colonial rail and industrial investment
 - [Kaesong](../geography/kaesong.md) — the historic Goryeo capital administered from the peninsula's center under the colony
 - [Mount Paektu](../geography/mount-paektu.md) — the sacred mountain tied to Kim Il-sung's mythologized guerrilla campaign
+- [Wonsan](../geography/wonsan.md) — a colonial-era treaty port and site of the 1929 Wonsan General Strike
 <!-- END GENERATED: crossrefs -->

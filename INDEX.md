@@ -15,6 +15,7 @@ A complete index of the knowledge base on the country north korea, grouped by ca
 - [Mount Paektu](geography/mount-paektu.md) — The peninsula's highest peak and sacred volcano on the China–DPRK border, central to Korean and Kim-dynasty mythology.
 - [Hamhung](geography/hamhung.md) — The DPRK's second-largest city and chemical-industrial center on the east coast, home of Vinalon and the Hungnam port.
 - [Kaesong](geography/kaesong.md) — The medieval Goryeo capital and DMZ border city, host to the 2004–2016 Kaesong Industrial Complex, the flagship inter-Korean economic experiment.
+- [Wonsan](geography/wonsan.md) — The DPRK's principal east-coast port city in Kangwon Province, a treaty-port entrepôt, Korean War siege site, and repeated special-economic-zone project.
 
 Category index: [geography/index.md](geography/index.md)
 
@@ -23,6 +24,7 @@ Category index: [geography/index.md](geography/index.md)
 - [Korean War](history/korean-war.md) — The 1950–1953 war that permanently divided the peninsula and became the DPRK's foundational trauma.
 - [Nuclear Weapons Program](history/nuclear-weapons-program.md) — The DPRK's nuclear arsenal from its covert 1980s origins through six tests to a deliverable thermonuclear deterrent.
 - [Japanese Colonial Period (1910–1945)](history/japanese-colonial-period.md) — Korea under Japanese imperial rule, the nationalist resistance, and the colonial foundations of the DPRK's anti-imperialist ideology and industrial base.
+- [Inter-Korean Relations and Dialogue](history/inter-korean-relations.md) — Relations between the two Koreas since the 1953 armistice, from Cold War provocations through the Sunshine Policy and 2018 summits to the post-2023 two-state repudiation of reunification.
 
 Category index: [history/index.md](history/index.md)
 
@@ -60,6 +62,7 @@ Category index: [culture-society/index.md](culture-society/index.md)
 - [Kim Jong-un](people/kim-jong-un.md) — Third leader of the DPRK (2011–present): Kim Jong-il's youngest son, who completed the nuclear deterrent and consolidated third-generation dynastic rule.
 - [Kim Yo-jong](people/kim-yo-jong.md) — Sister and key advisor to Kim Jong-un; the regime's chief propagandist, diplomatic proxy and enforcer, and a potential succession regent.
 - [Ko Yong-hui](people/ko-yong-hui.md) — Mother of Kim Jong-un and Kim Yo-jong and longtime partner of Kim Jong-il, whose informal influence shaped the third-generation succession.
+- [Jang Song-thaek](people/jang-song-thaek.md) — Kim Jong-un's uncle-in-law and the regime's chief economic administrator, executed in December 2013 in the defining purge of the third-generation consolidation.
 
 Category index: [people/index.md](people/index.md)
 <!-- END GENERATED: master-index -->

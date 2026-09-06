@@ -105,4 +105,5 @@ Pyongyang's relationship with the rest of North Korea is hierarchical and unequa
 - [Foreign Trade and Economic Sanctions](../economy/foreign-trade-and-sanctions.md) — the sanctioned economy from which the capital is insulated
 - [Japanese Colonial Period (1910–1945)](../history/japanese-colonial-period.md) — the colonial rail and industrial investment that expanded the city
 - [Religion and Atheism in North Korea](../culture-society/religion-and-atheism.md) — the "Jerusalem of the East" and the capital's state-run showcase churches
+- [Wonsan](wonsan.md) — the east-coast port linked to the capital by the Pyongwon rail line
 <!-- END GENERATED: crossrefs -->

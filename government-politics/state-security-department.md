@@ -137,4 +137,5 @@ See [State Ideology and Propaganda](../culture-society/state-ideology-and-propag
 - [Kim Yo-jong](../people/kim-yo-jong.md) — the sister and senior party official whose OGD role parallels the Bowibu's reach
 - [Economic System and Famine](../economy/economic-system-and-famine.md) — the economic crises whose social pressures the security state contains
 - [Religion and Atheism in North Korea](../culture-society/religion-and-atheism.md) — the religious practice the Bowibu detects and punishes as ideological subversion
+- [Jang Song-thaek](../people/jang-song-thaek.md) — the senior official whose 2013 arrest and purge the security apparatus carried out
 <!-- END GENERATED: crossrefs -->

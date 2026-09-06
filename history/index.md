@@ -14,4 +14,5 @@ Topics in the **History** category of the knowledge base on the country north ko
 | [Korean War](korean-war.md) | The 1950–1953 war that permanently divided the peninsula and became the DPRK's foundational trauma. |
 | [Nuclear Weapons Program](nuclear-weapons-program.md) | The DPRK's nuclear arsenal from its covert 1980s origins through six tests (2006–2017) to a deliverable thermonuclear deterrent and the regime's central survival strategy. |
 | [Japanese Colonial Period (1910–1945)](japanese-colonial-period.md) | Korea under Japanese imperial rule — annexation, cultural suppression, nationalist resistance, wartime mobilization, and the colonial foundations of the DPRK's ideology and industrial base. |
+| [Inter-Korean Relations and Dialogue](inter-korean-relations.md) | Relations between North and South Korea since the 1953 armistice — Cold War provocations, the Sunshine Policy and Kaesong complex, the 2018 summits, and the post-2023 constitutional repudiation of reunification. |
 <!-- END GENERATED: category-index -->

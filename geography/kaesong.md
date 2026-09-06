@@ -80,4 +80,6 @@ Kaesong is significant on multiple overlapping dimensions. As the former Goryeo 
 - [Kim Jong-un](../people/kim-jong-un.md) — the leader under whom the complex closed and the 2018 revival proposals stalled
 - [Foreign Trade and Economic Sanctions](../economy/foreign-trade-and-sanctions.md) — the industrial complex as a rare hard-currency source before its 2016 closure
 - [Japanese Colonial Period (1910–1945)](../history/japanese-colonial-period.md) — the colonial administration of the historic Goryeo capital
+- [Wonsan](wonsan.md) — the east-coast counterpart port and special-economic-zone site
+- [Inter-Korean Relations and Dialogue](../history/inter-korean-relations.md) — the inter-Korean cooperation that made the Kaesong Industrial Complex possible
 <!-- END GENERATED: crossrefs -->

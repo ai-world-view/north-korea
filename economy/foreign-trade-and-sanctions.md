@@ -123,4 +123,6 @@ Sanctions have also constrained the regime's ability to undertake major infrastr
 - [Pyongyang](../geography/pyongyang.md) — the privileged capital insulated from the worst of the sanctioned economy
 - [Mining and Resource Extraction](mining-and-resources.md) — coal and mineral exports as the primary sanctions target and hard-currency source
 - [Energy Crisis and Electricity Shortage](energy-crisis-and-electricity.md) — the oil-import constraints that sanctions impose on the energy supply
+- [Wonsan](../geography/wonsan.md) — an east-coast port implicated in ship-to-ship sanctions-evasion transfers
+- [Inter-Korean Relations and Dialogue](../history/inter-korean-relations.md) — the sanctions regime that constrains inter-Korean economic cooperation
 <!-- END GENERATED: crossrefs -->

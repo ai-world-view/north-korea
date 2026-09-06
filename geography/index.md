@@ -15,4 +15,5 @@ Topics in the **Geography** category of the knowledge base on the country north 
 | [Mount Paektu](mount-paektu.md) | The peninsula's highest peak (2,744 m) and a sacred stratovolcano on the China–DPRK border — central to Korean creation myth and to the Kim dynasty's "Paektu bloodline" legitimacy. |
 | [Hamhung](hamhung.md) | The DPRK's second-largest city and chemical-industrial heart on the east coast — home of Vinalon, the Hungnam port and 1950 evacuation, and a case study in provincial neglect. |
 | [Kaesong](kaesong.md) | The medieval Goryeo capital and DMZ border city — a UNESCO heritage site and home of the 2004–2016 Kaesong Industrial Complex, the flagship inter-Korean economic experiment. |
+| [Wonsan](wonsan.md) | The DPRK's principal east-coast port in Kangwon Province — a 19th-century treaty port, the site of a Korean War amphibious landing and 861-day naval siege, and a recurring special-economic-zone and tourism project. |
 <!-- END GENERATED: category-index -->

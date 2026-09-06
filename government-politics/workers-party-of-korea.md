@@ -106,4 +106,5 @@ The persistence of the WPK across three generations of Kim family rule—and the
 - [Korean People's Army](korean-peoples-army.md) — the military the party commands through its Central Military Commission
 - [State Security Department](state-security-department.md) — the security organ whose control functions parallel the party's apparatus
 - [Religion and Atheism in North Korea](../culture-society/religion-and-atheism.md) — the party's ideological oversight of atheism doctrine and religious suppression
+- [Jang Song-thaek](../people/jang-song-thaek.md) — senior party administrator (OGD and Administrative Department) purged and executed in 2013
 <!-- END GENERATED: crossrefs -->

@@ -106,4 +106,6 @@ Domestically, Kim Jong-un has demonstrated that the Kim family system is capable
 - [Korean People's Army](../government-politics/korean-peoples-army.md) — the military he commands as Supreme Commander and has selectively modernized
 - [Ko Yong-hui](ko-yong-hui.md) — his mother, whose advocacy in the inner court helped secure his succession
 - [State Security Department](../government-politics/state-security-department.md) — the security service he purged and reorganized during his consolidation of power
+- [Jang Song-thaek](jang-song-thaek.md) — his uncle-in-law, publicly executed in 2013 in the defining purge of his consolidation
+- [Inter-Korean Relations and Dialogue](../history/inter-korean-relations.md) — the 2018 summit diplomacy he pursued and the post-2023 two-state turn he ordered
 <!-- END GENERATED: crossrefs -->

@@ -139,4 +139,6 @@ The Korean War shaped North Korea's subsequent development in several fundamenta
 - [Hamhung](../geography/hamhung.md) — site of the December 1950 Hungnam evacuation during the war
 - [Kaesong](../geography/kaesong.md) — the border city whose armistice-line placement transferred it from South to North; site of the early truce talks
 - [Japanese Colonial Period (1910–1945)](japanese-colonial-period.md) — the colonial rule and 1945 partition that set the stage for the war
+- [Inter-Korean Relations and Dialogue](inter-korean-relations.md) — the unresolved armistice and seven decades of North-South relations that followed
+- [Wonsan](../geography/wonsan.md) — site of the 1950 amphibious landing and the 861-day naval siege
 <!-- END GENERATED: crossrefs -->

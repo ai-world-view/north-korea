@@ -121,4 +121,5 @@ Internally, the program has justified the regime's continued militarization and 
 - [Japanese Colonial Period (1910–1945)](japanese-colonial-period.md) — the colonial victim narrative underpinning the autarkic security posture
 - [Energy Crisis and Electricity Shortage](../economy/energy-crisis-and-electricity.md) — the 1994 Agreed Framework and the interplay of energy and deterrence
 - [Mining and Resource Extraction](../economy/mining-and-resources.md) — the uranium mining that feeds the nuclear fuel cycle
+- [Inter-Korean Relations and Dialogue](inter-korean-relations.md) — the nuclear program as the central bargaining chip and obstacle in North-South diplomacy
 <!-- END GENERATED: crossrefs -->
