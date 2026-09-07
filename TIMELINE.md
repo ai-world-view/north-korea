@@ -19,4 +19,5 @@ reflect each topic's principal date (an event's start, a person's birth).
 | 1952-06-26 | Ko Yong-hui | People | [people/ko-yong-hui.md](people/ko-yong-hui.md) |
 | 1984-01-08 | Kim Jong-un | People | [people/kim-jong-un.md](people/kim-jong-un.md) |
 | 1987-09-26 | Kim Yo-jong | People | [people/kim-yo-jong.md](people/kim-yo-jong.md) |
+| 2012-07-06 | Ri Sol-ju | People | [people/ri-sol-ju.md](people/ri-sol-ju.md) |
 <!-- END GENERATED: timeline -->

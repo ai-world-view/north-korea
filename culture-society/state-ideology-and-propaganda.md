@@ -115,4 +115,6 @@ Kim Jong-un's personal image management—appearing publicly with his wife Ri So
 - [Foreign Trade and Economic Sanctions](../economy/foreign-trade-and-sanctions.md) — the juche self-reliance doctrine that frames economic isolation
 - [Japanese Colonial Period (1910–1945)](../history/japanese-colonial-period.md) — the anti-imperialist experience from which juche derives
 - [Religion and Atheism in North Korea](religion-and-atheism.md) — the atheist doctrine and the personality cult that serves as a quasi-religious substitute
+- [Ri Sol-ju](../people/ri-sol-ju.md) — the modernized "first lady" imagery deployed as cultural spectacle and regime legitimation
+- [Agriculture and Food Security](../economy/agriculture-and-food-security.md) — the juche self-reliance doctrine that frames the regime's refusal of agricultural reform
 <!-- END GENERATED: crossrefs -->

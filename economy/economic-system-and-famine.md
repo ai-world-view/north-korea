@@ -136,4 +136,6 @@ The famine of the 1990s is a watershed in North Korean history, a catastrophe th
 - [State Security Department](../government-politics/state-security-department.md) — the security apparatus that contains the social pressures of economic crisis
 - [Energy Crisis and Electricity Shortage](energy-crisis-and-electricity.md) — the post-Soviet energy collapse that directly precipitated the famine
 - [Mining and Resource Extraction](mining-and-resources.md) — the extractive sector within the planned economy and a hard-currency lifeline
+- [Agriculture and Food Security](agriculture-and-food-security.md) — the collective-farm system whose failure produced the famine and chronic food insecurity
+- [Rason](../geography/rason.md) — the special economic zone that sought to work around the planned economy
 <!-- END GENERATED: crossrefs -->

@@ -16,6 +16,7 @@ A complete index of the knowledge base on the country north korea, grouped by ca
 - [Hamhung](geography/hamhung.md) — The DPRK's second-largest city and chemical-industrial center on the east coast, home of Vinalon and the Hungnam port.
 - [Kaesong](geography/kaesong.md) — The medieval Goryeo capital and DMZ border city, host to the 2004–2016 Kaesong Industrial Complex, the flagship inter-Korean economic experiment.
 - [Wonsan](geography/wonsan.md) — The DPRK's principal east-coast port city in Kangwon Province, a treaty-port entrepôt, Korean War siege site, and repeated special-economic-zone project.
+- [Rason](geography/rason.md) — The DPRK's oldest special economic zone, in the northeastern corner on the Russia–China border, a largely unrealized experiment in market-oriented development.
 
 Category index: [geography/index.md](geography/index.md)
 
@@ -43,6 +44,7 @@ Category index: [government-politics/index.md](government-politics/index.md)
 - [Foreign Trade and Economic Sanctions](economy/foreign-trade-and-sanctions.md) — The DPRK's external trade, dependence on China and Russia, and the escalating UN and US sanctions regime that has squeezed the economy since the 1990s.
 - [Energy Crisis and Electricity Shortage](economy/energy-crisis-and-electricity.md) — The post-1991 collapse of Soviet-subsidized energy that triggered the famine and left the country in chronic darkness.
 - [Mining and Resource Extraction](economy/mining-and-resources.md) — The DPRK's vast mineral reserves and the coal, iron, rare-earth, and uranium extraction that funds the sanctioned state.
+- [Agriculture and Food Security](economy/agriculture-and-food-security.md) — The state-controlled collective-farm system and chronic food insecurity, from the 1994–1998 famine to the jangmadang markets that arose in its wake.
 
 Category index: [economy/index.md](economy/index.md)
 
@@ -63,6 +65,7 @@ Category index: [culture-society/index.md](culture-society/index.md)
 - [Kim Yo-jong](people/kim-yo-jong.md) — Sister and key advisor to Kim Jong-un; the regime's chief propagandist, diplomatic proxy and enforcer, and a potential succession regent.
 - [Ko Yong-hui](people/ko-yong-hui.md) — Mother of Kim Jong-un and Kim Yo-jong and longtime partner of Kim Jong-il, whose informal influence shaped the third-generation succession.
 - [Jang Song-thaek](people/jang-song-thaek.md) — Kim Jong-un's uncle-in-law and the regime's chief economic administrator, executed in December 2013 in the defining purge of the third-generation consolidation.
+- [Ri Sol-ju](people/ri-sol-ju.md) — Wife of Kim Jong-un and the DPRK's publicly visible "first lady" from 2012, a former Unhasu Orchestra singer and instrument of the regime's modernized image.
 
 Category index: [people/index.md](people/index.md)
 <!-- END GENERATED: master-index -->

@@ -112,4 +112,5 @@ Most significantly, Kim Yo-jong's existence as a potential successor or co-regen
 - [Ko Yong-hui](ko-yong-hui.md) — her mother, the Osaka-born partner of Kim Jong-il
 - [State Security Department](../government-politics/state-security-department.md) — the security-and-control apparatus paralleling her OGD role
 - [Jang Song-thaek](jang-song-thaek.md) — the powerful uncle-in-law whose 2013 purge cleared the way for her rise
+- [Ri Sol-ju](ri-sol-ju.md) — her sister-in-law, a ceremonial figure in contrast to her own political role
 <!-- END GENERATED: crossrefs -->

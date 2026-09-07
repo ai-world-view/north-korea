@@ -16,4 +16,5 @@ Topics in the **Geography** category of the knowledge base on the country north 
 | [Hamhung](hamhung.md) | The DPRK's second-largest city and chemical-industrial heart on the east coast — home of Vinalon, the Hungnam port and 1950 evacuation, and a case study in provincial neglect. |
 | [Kaesong](kaesong.md) | The medieval Goryeo capital and DMZ border city — a UNESCO heritage site and home of the 2004–2016 Kaesong Industrial Complex, the flagship inter-Korean economic experiment. |
 | [Wonsan](wonsan.md) | The DPRK's principal east-coast port in Kangwon Province — a 19th-century treaty port, the site of a Korean War amphibious landing and 861-day naval siege, and a recurring special-economic-zone and tourism project. |
+| [Rason](rason.md) | The DPRK's oldest special economic zone, in the northeastern corner on the Russia–China border — a decades-long, largely unrealized experiment in market-oriented development astride Northeast Asian trade routes. |
 <!-- END GENERATED: category-index -->

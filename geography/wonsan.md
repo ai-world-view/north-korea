@@ -99,4 +99,5 @@ The **Wonsan General Strike** (1929) is taught in North Korean schools as an exa
 - [Nuclear Weapons Program](../history/nuclear-weapons-program.md) — Sanctions context
 - [Korean People's Army](../government-politics/korean-peoples-army.md) — Kalma Airport and naval facilities
 - [Jang Song-thaek](../people/jang-song-thaek.md) — official who oversaw Wonsan-area special economic zone initiatives
+- [Rason](rason.md) — the DPRK's oldest special economic zone, a northeastern counterpart to Wonsan's SEZ ambitions
 <!-- END GENERATED: crossrefs -->

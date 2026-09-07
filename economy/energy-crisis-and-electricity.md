@@ -87,3 +87,4 @@ The energy crisis was the material foundation of the famine and economic collaps
 - [Hamhung](../geography/hamhung.md) — Vinalon chemical complex exemplifying energy-dependent heavy industry
 - [Korean People's Army](../government-politics/korean-peoples-army.md) — receives priority electricity allocation; built hydropower projects
 - [State Ideology and Propaganda](../culture-society/state-ideology-and-propaganda.md) — juche self-reliance ideology vs. energy dependency reality
+- [Agriculture and Food Security](agriculture-and-food-security.md) — the fuel and fertilizer collapse that crippled mechanized farming and deepened the famine

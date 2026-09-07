@@ -125,4 +125,6 @@ Sanctions have also constrained the regime's ability to undertake major infrastr
 - [Energy Crisis and Electricity Shortage](energy-crisis-and-electricity.md) — the oil-import constraints that sanctions impose on the energy supply
 - [Wonsan](../geography/wonsan.md) — an east-coast port implicated in ship-to-ship sanctions-evasion transfers
 - [Inter-Korean Relations and Dialogue](../history/inter-korean-relations.md) — the sanctions regime that constrains inter-Korean economic cooperation
+- [Rason](../geography/rason.md) — the special economic zone whose foreign-capital ambitions the sanctions regime has thwarted
+- [Agriculture and Food Security](agriculture-and-food-security.md) — the food and fertilizer imports and sanctions constraints that shape the food balance
 <!-- END GENERATED: crossrefs -->

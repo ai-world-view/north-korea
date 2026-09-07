@@ -108,4 +108,6 @@ Domestically, Kim Jong-un has demonstrated that the Kim family system is capable
 - [State Security Department](../government-politics/state-security-department.md) — the security service he purged and reorganized during his consolidation of power
 - [Jang Song-thaek](jang-song-thaek.md) — his uncle-in-law, publicly executed in 2013 in the defining purge of his consolidation
 - [Inter-Korean Relations and Dialogue](../history/inter-korean-relations.md) — the 2018 summit diplomacy he pursued and the post-2023 two-state turn he ordered
+- [Ri Sol-ju](ri-sol-ju.md) — his wife, whom he presented publicly from 2012 as part of a modernized leadership image
+- [Rason](../geography/rason.md) — the special economic zone he reorganized in the 2013 SEZ expansion
 <!-- END GENERATED: crossrefs -->

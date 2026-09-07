@@ -65,4 +65,5 @@ Her son [Kim Jong-un](kim-jong-un.md)'s consolidation of power after 2011, inclu
 - [Workers' Party of Korea](../government-politics/workers-party-of-korea.md) — the party through which the succession she shaped was ratified
 - [Mount Paektu](../geography/mount-paektu.md) — the sacred-birth mythology her documented biography contradicts
 - [Jang Song-thaek](jang-song-thaek.md) — the family power broker of the succession era, purged in 2013
+- [Ri Sol-ju](ri-sol-ju.md) — her daughter-in-law, Kim Jong-un's publicly visible wife
 <!-- END GENERATED: crossrefs -->

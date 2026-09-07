@@ -82,4 +82,5 @@ Kaesong is significant on multiple overlapping dimensions. As the former Goryeo 
 - [Japanese Colonial Period (1910–1945)](../history/japanese-colonial-period.md) — the colonial administration of the historic Goryeo capital
 - [Wonsan](wonsan.md) — the east-coast counterpart port and special-economic-zone site
 - [Inter-Korean Relations and Dialogue](../history/inter-korean-relations.md) — the inter-Korean cooperation that made the Kaesong Industrial Complex possible
+- [Rason](rason.md) — the DPRK's northeastern special economic zone, a less successful SEZ than the Kaesong complex
 <!-- END GENERATED: crossrefs -->
