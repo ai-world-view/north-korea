@@ -110,4 +110,5 @@ Domestically, Kim Jong-un has demonstrated that the Kim family system is capable
 - [Inter-Korean Relations and Dialogue](../history/inter-korean-relations.md) — the 2018 summit diplomacy he pursued and the post-2023 two-state turn he ordered
 - [Ri Sol-ju](ri-sol-ju.md) — his wife, whom he presented publicly from 2012 as part of a modernized leadership image
 - [Rason](../geography/rason.md) — the special economic zone he reorganized in the 2013 SEZ expansion
+- [Songun (Military-First) Ideology](../government-politics/songun-ideology.md) — the Songun framework he inherited and partially rebalanced with the byungjin line
 <!-- END GENERATED: crossrefs -->

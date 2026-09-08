@@ -17,6 +17,7 @@ A complete index of the knowledge base on the country north korea, grouped by ca
 - [Kaesong](geography/kaesong.md) — The medieval Goryeo capital and DMZ border city, host to the 2004–2016 Kaesong Industrial Complex, the flagship inter-Korean economic experiment.
 - [Wonsan](geography/wonsan.md) — The DPRK's principal east-coast port city in Kangwon Province, a treaty-port entrepôt, Korean War siege site, and repeated special-economic-zone project.
 - [Rason](geography/rason.md) — The DPRK's oldest special economic zone, in the northeastern corner on the Russia–China border, a largely unrealized experiment in market-oriented development.
+- [Railway and Transportation Networks](geography/railway-and-transportation-networks.md) — The DPRK's aging, fuel-starved network of railways, roads, ports, and limited air service, critical to internal control and external trade but crippled by power shortages and sanctions.
 
 Category index: [geography/index.md](geography/index.md)
 
@@ -26,6 +27,7 @@ Category index: [geography/index.md](geography/index.md)
 - [Nuclear Weapons Program](history/nuclear-weapons-program.md) — The DPRK's nuclear arsenal from its covert 1980s origins through six tests to a deliverable thermonuclear deterrent.
 - [Japanese Colonial Period (1910–1945)](history/japanese-colonial-period.md) — Korea under Japanese imperial rule, the nationalist resistance, and the colonial foundations of the DPRK's anti-imperialist ideology and industrial base.
 - [Inter-Korean Relations and Dialogue](history/inter-korean-relations.md) — Relations between the two Koreas since the 1953 armistice, from Cold War provocations through the Sunshine Policy and 2018 summits to the post-2023 two-state repudiation of reunification.
+- [Sino–North Korean Relations](history/sino-north-korean-relations.md) — The DPRK's alliance with and dependence on China, from the 1950 "blood alliance" and 1961 mutual-defense treaty to today's asymmetric economic lifeline and the post-2022 Russia pivot.
 
 Category index: [history/index.md](history/index.md)
 
@@ -35,6 +37,7 @@ Category index: [history/index.md](history/index.md)
 - [Workers' Party of Korea](government-politics/workers-party-of-korea.md) — The sole ruling party and institutional backbone of the totalitarian state, from its 1945 founding to the party under Kim Jong-un.
 - [Korean People's Army](government-politics/korean-peoples-army.md) — The DPRK's ~1.2-million-strong military and economic conglomerate, the coercive skeleton of the Kim regime and custodian of its nuclear forces.
 - [State Security Department](government-politics/state-security-department.md) — The Bowibu (Ministry of State Security), the regime's secret police and pervasive internal-surveillance apparatus, answerable only to the Supreme Leader.
+- [Songun (Military-First) Ideology](government-politics/songun-ideology.md) — The DPRK's military-first state doctrine, codified under Kim Jong-il in the 1990s, elevating the Korean People's Army above the party and the state.
 
 Category index: [government-politics/index.md](government-politics/index.md)
 

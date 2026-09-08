@@ -107,4 +107,5 @@ The persistence of the WPK across three generations of Kim family rule—and the
 - [State Security Department](state-security-department.md) — the security organ whose control functions parallel the party's apparatus
 - [Religion and Atheism in North Korea](../culture-society/religion-and-atheism.md) — the party's ideological oversight of atheism doctrine and religious suppression
 - [Jang Song-thaek](../people/jang-song-thaek.md) — senior party administrator (OGD and Administrative Department) purged and executed in 2013
+- [Songun (Military-First) Ideology](songun-ideology.md) — the doctrine that subordinated the party to the military in the 1990s
 <!-- END GENERATED: crossrefs -->

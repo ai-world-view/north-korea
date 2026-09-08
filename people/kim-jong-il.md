@@ -141,4 +141,5 @@ His body was embalmed and placed in the Kumsusan Palace of the Sun alongside his
 - [Jang Song-thaek](jang-song-thaek.md) — his brother-in-law and economic administrator, later purged under Kim Jong-un
 - [Inter-Korean Relations and Dialogue](../history/inter-korean-relations.md) — the Sunshine Policy summits (2000, 2007) he held with the South
 - [Ri Sol-ju](ri-sol-ju.md) — his son's wife, whose public role contrasts with the concealment of his own partners
+- [Songun (Military-First) Ideology](../government-politics/songun-ideology.md) — the military-first doctrine he codified as the ruling framework of his era
 <!-- END GENERATED: crossrefs -->

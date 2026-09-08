@@ -119,4 +119,5 @@ Hamhung remains strategically important to the DPRK's economy and military — i
 - [Energy Crisis and Electricity Shortage](../economy/energy-crisis-and-electricity.md) — the energy-dependent Vinalon and chemical industry that the power collapse crippled
 - [Mining and Resource Extraction](../economy/mining-and-resources.md) — the regional coal that fed the city's chemical and heavy industry
 - [Wonsan](wonsan.md) — the neighboring east-coast port city to the south
+- [Railway and Transportation Networks](railway-and-transportation-networks.md) — the rail-and-port network serving Hamhung's chemical complex and the Hungnam port
 <!-- END GENERATED: crossrefs -->

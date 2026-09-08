@@ -88,3 +88,4 @@ The energy crisis was the material foundation of the famine and economic collaps
 - [Korean People's Army](../government-politics/korean-peoples-army.md) — receives priority electricity allocation; built hydropower projects
 - [State Ideology and Propaganda](../culture-society/state-ideology-and-propaganda.md) — juche self-reliance ideology vs. energy dependency reality
 - [Agriculture and Food Security](agriculture-and-food-security.md) — the fuel and fertilizer collapse that crippled mechanized farming and deepened the famine
+- [Railway and Transportation Networks](../geography/railway-and-transportation-networks.md) — the electrified rail network immobilized by the chronic power shortages

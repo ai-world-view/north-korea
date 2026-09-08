@@ -72,4 +72,6 @@ Rason exemplifies the tension in North Korean economic policy between *juche* au
 - [Economic System and Famine](../economy/economic-system-and-famine.md) — the planned economy the SEZ experiment sought to work around
 - [Agriculture and Food Security](../economy/agriculture-and-food-security.md) — a parallel case of juche autarky failing to deliver
 - [Kim Jong-un](../people/kim-jong-un.md) — the leader who reorganized Rason within the 2013 SEZ expansion
+- [Railway and Transportation Networks](railway-and-transportation-networks.md) — the rail-and-port network whose Rajin–Khasan line and pier leases carry Rason's transit trade
+- [Sino–North Korean Relations](../history/sino-north-korean-relations.md) — the China relationship that drives Rason's cross-border trade and transit role
 <!-- END GENERATED: crossrefs -->

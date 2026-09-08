@@ -174,4 +174,5 @@ The KPA's centrality — to defense, economic production, and political control 
 - [Mining and Resource Extraction](../economy/mining-and-resources.md) — the mines the KPA operates as an economic conglomerate
 - [Energy Crisis and Electricity Shortage](../economy/energy-crisis-and-electricity.md) — the hydropower projects the KPA built and the priority power it receives
 - [Wonsan](../geography/wonsan.md) — home of Kalma Airport, the East Sea Fleet, and SLBM test sites
+- [Songun (Military-First) Ideology](songun-ideology.md) — the military-first doctrine that made the KPA the supreme state institution
 <!-- END GENERATED: crossrefs -->

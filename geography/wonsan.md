@@ -100,4 +100,5 @@ The **Wonsan General Strike** (1929) is taught in North Korean schools as an exa
 - [Korean People's Army](../government-politics/korean-peoples-army.md) — Kalma Airport and naval facilities
 - [Jang Song-thaek](../people/jang-song-thaek.md) — official who oversaw Wonsan-area special economic zone initiatives
 - [Rason](rason.md) — the DPRK's oldest special economic zone, a northeastern counterpart to Wonsan's SEZ ambitions
+- [Railway and Transportation Networks](railway-and-transportation-networks.md) — the transport network whose eastern trunk line and port make Wonsan a rail-and-sea node
 <!-- END GENERATED: crossrefs -->

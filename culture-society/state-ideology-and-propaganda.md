@@ -117,4 +117,5 @@ Kim Jong-un's personal image management—appearing publicly with his wife Ri So
 - [Religion and Atheism in North Korea](religion-and-atheism.md) — the atheist doctrine and the personality cult that serves as a quasi-religious substitute
 - [Ri Sol-ju](../people/ri-sol-ju.md) — the modernized "first lady" imagery deployed as cultural spectacle and regime legitimation
 - [Agriculture and Food Security](../economy/agriculture-and-food-security.md) — the juche self-reliance doctrine that frames the regime's refusal of agricultural reform
+- [Songun (Military-First) Ideology](../government-politics/songun-ideology.md) — the military-first doctrine that extended and reoriented Juche
 <!-- END GENERATED: crossrefs -->

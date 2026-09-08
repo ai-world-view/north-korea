@@ -127,4 +127,6 @@ Sanctions have also constrained the regime's ability to undertake major infrastr
 - [Inter-Korean Relations and Dialogue](../history/inter-korean-relations.md) — the sanctions regime that constrains inter-Korean economic cooperation
 - [Rason](../geography/rason.md) — the special economic zone whose foreign-capital ambitions the sanctions regime has thwarted
 - [Agriculture and Food Security](agriculture-and-food-security.md) — the food and fertilizer imports and sanctions constraints that shape the food balance
+- [Railway and Transportation Networks](../geography/railway-and-transportation-networks.md) — the ports, rail crossings, and ship-to-ship transfers that carry sanctioned trade
+- [Sino–North Korean Relations](../history/sino-north-korean-relations.md) — the China dependence and evasion networks that dominate DPRK foreign trade
 <!-- END GENERATED: crossrefs -->

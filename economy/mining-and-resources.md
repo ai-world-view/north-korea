@@ -118,3 +118,4 @@ International sanctions specifically target North Korean coal and mineral export
 - [Korean People's Army](../government-politics/korean-peoples-army.md) — KPA as the primary mining operator
 - [Kwanliso](../culture-society/kwanliso.md) — political prisoners providing forced mine labor
 - [Hamhung](../geography/hamhung.md) — the coal-dependent Vinalon and chemical-industrial complex
+- [Railway and Transportation Networks](../geography/railway-and-transportation-networks.md) — the freight rail and ports built to move coal and minerals to export

@@ -128,4 +128,5 @@ Inter-Korean hotlines, reopened during the 2018 summit period, have been disconn
 - [Foreign Trade and Sanctions](../economy/foreign-trade-and-sanctions.md) — Sanctions constraining inter-Korean economic cooperation
 - [Economic System and Famine](../economy/economic-system-and-famine.md) — Economic context for engagement incentives
 - [Jang Song-thaek](../people/jang-song-thaek.md) — Manager of inter-Korean and Chinese economic partnerships before his purge
+- [Sino–North Korean Relations](sino-north-korean-relations.md) — China's parallel role in the peninsula's Cold War and diplomatic turns
 <!-- END GENERATED: crossrefs -->

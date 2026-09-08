@@ -122,4 +122,6 @@ Internally, the program has justified the regime's continued militarization and 
 - [Energy Crisis and Electricity Shortage](../economy/energy-crisis-and-electricity.md) — the 1994 Agreed Framework and the interplay of energy and deterrence
 - [Mining and Resource Extraction](../economy/mining-and-resources.md) — the uranium mining that feeds the nuclear fuel cycle
 - [Inter-Korean Relations and Dialogue](inter-korean-relations.md) — the nuclear program as the central bargaining chip and obstacle in North-South diplomacy
+- [Songun (Military-First) Ideology](../government-politics/songun-ideology.md) — the military-first doctrine for which the nuclear arsenal is the ultimate expression
+- [Sino–North Korean Relations](sino-north-korean-relations.md) — China's role as the chief external check on and enabler of the nuclear program
 <!-- END GENERATED: crossrefs -->
