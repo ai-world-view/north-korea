@@ -129,4 +129,6 @@ Inter-Korean hotlines, reopened during the 2018 summit period, have been disconn
 - [Economic System and Famine](../economy/economic-system-and-famine.md) — Economic context for engagement incentives
 - [Jang Song-thaek](../people/jang-song-thaek.md) — Manager of inter-Korean and Chinese economic partnerships before his purge
 - [Sino–North Korean Relations](sino-north-korean-relations.md) — China's parallel role in the peninsula's Cold War and diplomatic turns
+- [Partition and Founding (1945–1948)](partition-and-founding.md) — the 1945–1948 division that created the two Korean states
+- [Supreme People's Assembly](../government-politics/supreme-peoples-assembly.md) — the assembly that formalized the 2023–2024 constitutional abandonment of reunification
 <!-- END GENERATED: crossrefs -->

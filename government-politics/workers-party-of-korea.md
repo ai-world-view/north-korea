@@ -108,4 +108,6 @@ The persistence of the WPK across three generations of Kim family rule—and the
 - [Religion and Atheism in North Korea](../culture-society/religion-and-atheism.md) — the party's ideological oversight of atheism doctrine and religious suppression
 - [Jang Song-thaek](../people/jang-song-thaek.md) — senior party administrator (OGD and Administrative Department) purged and executed in 2013
 - [Songun (Military-First) Ideology](songun-ideology.md) — the doctrine that subordinated the party to the military in the 1990s
+- [Partition and Founding (1945–1948)](../history/partition-and-founding.md) — the 1945–1948 period in which the party's organizational predecessor was built
+- [Supreme People's Assembly](supreme-peoples-assembly.md) — the state legislature whose deputies and decisions the party controls
 <!-- END GENERATED: crossrefs -->

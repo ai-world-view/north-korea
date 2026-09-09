@@ -146,4 +146,6 @@ Kim Il-sung's legacy operates on multiple levels:
 - [Education System](../culture-society/education-system.md) — the schooling built around his revolutionary history and cult
 - [Japanese Colonial Period (1910–1945)](../history/japanese-colonial-period.md) — the era of his anti-Japanese guerrilla struggle and the DPRK founding myth
 - [Sino–North Korean Relations](../history/sino-north-korean-relations.md) — the founder's Chinese guerrilla ties, the 1961 treaty, and the 1992 recognition rupture
+- [Partition and Founding (1945–1948)](../history/partition-and-founding.md) — his Soviet installation and consolidation of power during the founding period
+- [Supreme People's Assembly](../government-politics/supreme-peoples-assembly.md) — the legislature established under him in 1948
 <!-- END GENERATED: crossrefs -->

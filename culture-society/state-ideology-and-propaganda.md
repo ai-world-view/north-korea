@@ -118,4 +118,5 @@ Kim Jong-un's personal image management—appearing publicly with his wife Ri So
 - [Ri Sol-ju](../people/ri-sol-ju.md) — the modernized "first lady" imagery deployed as cultural spectacle and regime legitimation
 - [Agriculture and Food Security](../economy/agriculture-and-food-security.md) — the juche self-reliance doctrine that frames the regime's refusal of agricultural reform
 - [Songun (Military-First) Ideology](../government-politics/songun-ideology.md) — the military-first doctrine that extended and reoriented Juche
+- [Arts and Culture](arts-and-culture.md) — the state-controlled film, music, literature, and visual arts through which the propaganda apparatus operates
 <!-- END GENERATED: crossrefs -->

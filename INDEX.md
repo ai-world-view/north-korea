@@ -28,6 +28,7 @@ Category index: [geography/index.md](geography/index.md)
 - [Japanese Colonial Period (1910–1945)](history/japanese-colonial-period.md) — Korea under Japanese imperial rule, the nationalist resistance, and the colonial foundations of the DPRK's anti-imperialist ideology and industrial base.
 - [Inter-Korean Relations and Dialogue](history/inter-korean-relations.md) — Relations between the two Koreas since the 1953 armistice, from Cold War provocations through the Sunshine Policy and 2018 summits to the post-2023 two-state repudiation of reunification.
 - [Sino–North Korean Relations](history/sino-north-korean-relations.md) — The DPRK's alliance with and dependence on China, from the 1950 "blood alliance" and 1961 mutual-defense treaty to today's asymmetric economic lifeline and the post-2022 Russia pivot.
+- [Partition and Founding (1945–1948)](history/partition-and-founding.md) — The division of Korea at the 38th parallel, the Soviet occupation of the north, and the 1948 establishment of the DPRK under Kim Il-sung.
 
 Category index: [history/index.md](history/index.md)
 
@@ -38,6 +39,7 @@ Category index: [history/index.md](history/index.md)
 - [Korean People's Army](government-politics/korean-peoples-army.md) — The DPRK's ~1.2-million-strong military and economic conglomerate, the coercive skeleton of the Kim regime and custodian of its nuclear forces.
 - [State Security Department](government-politics/state-security-department.md) — The Bowibu (Ministry of State Security), the regime's secret police and pervasive internal-surveillance apparatus, answerable only to the Supreme Leader.
 - [Songun (Military-First) Ideology](government-politics/songun-ideology.md) — The DPRK's military-first state doctrine, codified under Kim Jong-il in the 1990s, elevating the Korean People's Army above the party and the state.
+- [Supreme People's Assembly](government-politics/supreme-peoples-assembly.md) — The DPRK's nominal legislature and constitutionally "highest organ of state power," a rubber-stamp body that unanimously ratifies decisions made by the Supreme Leader and the party.
 
 Category index: [government-politics/index.md](government-politics/index.md)
 
@@ -57,6 +59,7 @@ Category index: [economy/index.md](economy/index.md)
 - [Education System](culture-society/education-system.md) — The state-monopolized, militarized school system as an instrument of loyalty indoctrination, from 12-year compulsory schooling to elite science institutions.
 - [Kwanliso (Political Prison Camps)](culture-society/kwanliso.md) — The DPRK's network of political prison camps, holding an estimated 80,000–120,000 detainees under a doctrine of three-generation collective guilt.
 - [Religion and Atheism in North Korea](culture-society/religion-and-atheism.md) — The regime's official atheism and its systematic suppression of religion — above all Christianity, once rooted in the north — as a threat to totalitarian control.
+- [Arts and Culture](culture-society/arts-and-culture.md) — State-controlled film, music, literature, and visual arts subordinated to propaganda, from the Shin Sang-ok abduction to the Mansudae studios and the Moranbong Band.
 
 Category index: [culture-society/index.md](culture-society/index.md)
 

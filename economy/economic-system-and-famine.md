@@ -139,4 +139,6 @@ The famine of the 1990s is a watershed in North Korean history, a catastrophe th
 - [Agriculture and Food Security](agriculture-and-food-security.md) — the collective-farm system whose failure produced the famine and chronic food insecurity
 - [Rason](../geography/rason.md) — the special economic zone that sought to work around the planned economy
 - [Songun (Military-First) Ideology](../government-politics/songun-ideology.md) — the military-first priorities that shaped resource allocation through the famine
+- [Partition and Founding (1945–1948)](../history/partition-and-founding.md) — the colonial industrial inheritance that shaped the early DPRK economy
+- [Arts and Culture](../culture-society/arts-and-culture.md) — the Mansudae art enterprises and overseas projects as hard-currency cultural exports
 <!-- END GENERATED: crossrefs -->

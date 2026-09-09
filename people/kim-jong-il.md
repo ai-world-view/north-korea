@@ -142,4 +142,6 @@ His body was embalmed and placed in the Kumsusan Palace of the Sun alongside his
 - [Inter-Korean Relations and Dialogue](../history/inter-korean-relations.md) — the Sunshine Policy summits (2000, 2007) he held with the South
 - [Ri Sol-ju](ri-sol-ju.md) — his son's wife, whose public role contrasts with the concealment of his own partners
 - [Songun (Military-First) Ideology](../government-politics/songun-ideology.md) — the military-first doctrine he codified as the ruling framework of his era
+- [Supreme People's Assembly](../government-politics/supreme-peoples-assembly.md) — under whom the National Defence Commission superseded the SPA as the supreme state organ
+- [Arts and Culture](../culture-society/arts-and-culture.md) — his cinema obsession and the Shin Sang-ok abduction that reshaped state culture
 <!-- END GENERATED: crossrefs -->

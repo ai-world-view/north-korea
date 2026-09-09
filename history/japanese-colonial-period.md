@@ -125,4 +125,5 @@ The experience of Japanese colonialism thus shaped the DPRK's foundational ideol
 - [Mount Paektu](../geography/mount-paektu.md) — the sacred mountain tied to Kim Il-sung's mythologized guerrilla campaign
 - [Wonsan](../geography/wonsan.md) — a colonial-era treaty port and site of the 1929 Wonsan General Strike
 - [Sino–North Korean Relations](sino-north-korean-relations.md) — the Manchurian era of Korean–Chinese communist cooperation that preceded the alliance
+- [Partition and Founding (1945–1948)](partition-and-founding.md) — the 1945 liberation and 38th-parallel partition that immediately followed colonial rule
 <!-- END GENERATED: crossrefs -->

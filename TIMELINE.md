@@ -15,6 +15,7 @@ reflect each topic's principal date (an event's start, a person's birth).
 | 1912-04-15 | Kim Il-sung | People | [people/kim-il-sung.md](people/kim-il-sung.md) |
 | 1942-02-16 | Kim Jong-il | People | [people/kim-jong-il.md](people/kim-jong-il.md) |
 | 1946-02-06 | Jang Song-thaek | People | [people/jang-song-thaek.md](people/jang-song-thaek.md) |
+| 1948-09-09 | Partition and Founding (1945–1948) | History | [history/partition-and-founding.md](history/partition-and-founding.md) |
 | 1950-06-25 | Korean War | History | [history/korean-war.md](history/korean-war.md) |
 | 1952-06-26 | Ko Yong-hui | People | [people/ko-yong-hui.md](people/ko-yong-hui.md) |
 | 1984-01-08 | Kim Jong-un | People | [people/kim-jong-un.md](people/kim-jong-un.md) |

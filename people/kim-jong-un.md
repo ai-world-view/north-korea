@@ -111,4 +111,5 @@ Domestically, Kim Jong-un has demonstrated that the Kim family system is capable
 - [Ri Sol-ju](ri-sol-ju.md) — his wife, whom he presented publicly from 2012 as part of a modernized leadership image
 - [Rason](../geography/rason.md) — the special economic zone he reorganized in the 2013 SEZ expansion
 - [Songun (Military-First) Ideology](../government-politics/songun-ideology.md) — the Songun framework he inherited and partially rebalanced with the byungjin line
+- [Supreme People's Assembly](../government-politics/supreme-peoples-assembly.md) — under whom the State Affairs Commission further subordinated the SPA
 <!-- END GENERATED: crossrefs -->

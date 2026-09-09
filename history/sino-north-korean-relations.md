@@ -170,4 +170,5 @@ Despite its vastly inferior power, the DPRK is not simply a Chinese client state
 - [Foreign Trade and Economic Sanctions](../economy/foreign-trade-and-sanctions.md) — the ~90% trade dependence and evasion networks that China enables
 - [Rason](../geography/rason.md) — the tri-border SEZ central to DPRK–China border trade and transit
 - [Kim Il-sung](../people/kim-il-sung.md) — the founder whose Chinese guerrilla ties and the 1992 rupture shaped the relationship
+- [Partition and Founding (1945–1948)](partition-and-founding.md) — the Soviet-sponsored founding of the DPRK before its later alignment shift toward China
 <!-- END GENERATED: crossrefs -->

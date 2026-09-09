@@ -149,4 +149,6 @@ Each succession has been managed through the party and military apparatus as a q
 - [State Security Department](state-security-department.md) — the secret-police organ at the core of the state's coercive apparatus
 - [Foreign Trade and Economic Sanctions](../economy/foreign-trade-and-sanctions.md) — the trade and sanctions environment the state manages
 - [Japanese Colonial Period (1910–1945)](../history/japanese-colonial-period.md) — the colonial roots of the state's founding narrative and industrial base
+- [Partition and Founding (1945–1948)](../history/partition-and-founding.md) — the Soviet-modeled institutions established at the DPRK's 1948 founding
+- [Supreme People's Assembly](supreme-peoples-assembly.md) — the nominal legislature at the apex of the constitutional structure
 <!-- END GENERATED: crossrefs -->

@@ -113,4 +113,5 @@ Most significantly, Kim Yo-jong's existence as a potential successor or co-regen
 - [State Security Department](../government-politics/state-security-department.md) — the security-and-control apparatus paralleling her OGD role
 - [Jang Song-thaek](jang-song-thaek.md) — the powerful uncle-in-law whose 2013 purge cleared the way for her rise
 - [Ri Sol-ju](ri-sol-ju.md) — her sister-in-law, a ceremonial figure in contrast to her own political role
+- [Arts and Culture](../culture-society/arts-and-culture.md) — the state cultural production she oversees through the Propaganda and Agitation Department
 <!-- END GENERATED: crossrefs -->
